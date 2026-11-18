@@ -49,6 +49,23 @@ The notes that use these sources are in [research/source-notes.md](research/sour
 | [Professional awards](https://sciencecouncil.org/scientists-science-technicians/which-professional-award-is-right-for-me/) | Science Council | Register titles with level and years of experience | Copyright, facts only | Yes |
 | [ISO 30414](https://www.iso.org/standard/30414), ISO 30422, BS 76000 | ISO, BSI | Existence only | Copyright, paid | No |
 
+## Profiles
+
+| Source | Owner | Facts taken | Licence | Opened |
+|---|---|---|---|---|
+| [International Personality Item Pool](https://ipip.ori.org/), with its [permission](https://ipip.ori.org/newPermission.htm), [citation](https://ipip.ori.org/newCitation.htm), [scoring](https://ipip.ori.org/newScoringInstructions.htm), [norms](https://ipip.ori.org/newNorms.htm) and scale key pages | Oregon Research Institute | Public-domain statement, size of the pool, scale sets, reliability figures, scoring rule, citation requests | Public domain (items and scales) | Yes |
+| [Johnson (2014), IPIP-NEO-120](https://doi.org/10.1016/j.jrp.2014.05.003), Journal of Research in Personality, 51, 78-89 | J. A. Johnson | Samples and reliability figures | Copyright Elsevier, facts only | Yes (author copy) |
+| [Johnson's IPIP-NEO data repository](https://osf.io/tbmh5/) | J. A. Johnson | The repository exists, its components and sample sizes | **No licence set** | Yes (metadata) |
+| [Twomey and Johnson, UK and Ireland norms](https://doi.org/10.1027/1015-5759/a000644), European Journal of Psychological Assessment | C. Twomey, J. A. Johnson | Sample size and age groups | Copyright Hogrefe, facts only. Licence of the norm tables not confirmed | Yes (first pages) |
+| [Open-Source Psychometrics Project raw data](https://openpsychometrics.org/_rawdata/) | Open-Source Psychometrics Project | Data sets and sizes, names of its free tests | **No licence stated** | Yes |
+| McCrae and Costa (1989), J. Pers. Soc. Psychol. 56(4), 586-595; McCrae and Costa (1989), J. Pers. 57(1), 17-40; DeYoung and others (2013), J. Pers. 81(5), 465-475; Markey and Markey (2009), Assessment 16(4), 352-361 | The authors | The findings in the abstracts | Copyright, facts only | No (reference or abstract only) |
+| [EFPA Test Review Model 5.0](https://www.efpa.eu/efpa-test-review-model-version-2025) | European Federation of Psychologists' Associations | Structure of a test review, guide values for reliability and norm samples | CC BY-SA 4.0 | Yes |
+| [Psychological Testing Centre](https://www.bps.org.uk/psychological-testing-centre) | British Psychological Society | The centre and its test reviews exist | Copyright | Partly |
+| [Guidelines on Test Use](https://www.intestcom.org/files/guideline_test_use.pdf) and [on internet-delivered testing](https://www.intestcom.org/files/guideline_computer_based_testing.pdf) | International Test Commission | The guidelines exist, with versions and dates | Copyright, all rights reserved | Yes |
+| ICO guidance on [special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/), [profiling](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/automated-decision-making-and-profiling/what-is-automated-individual-decision-making-and-profiling/), [consent](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/consent/when-is-consent-appropriate/) and [storage limitation](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/storage-limitation/) | Information Commissioner's Office | The rules summarised in the source notes | OGL v3.0 | Yes |
+| [Intellectual property page](https://www.insights.com/intellectual-property/) | The Insights Group Limited | The list of its registered trade marks | Copyright, facts only | Yes |
+| CRAN pages for the R packages psych, lavaan, semTools and circumplex | The package authors | Versions and licences | GPL | Yes |
+
 ## Names
 
 The sources for the name-clash check (trade mark mirror, Companies House, Ofqual register, WHOIS

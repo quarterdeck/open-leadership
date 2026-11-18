@@ -195,3 +195,91 @@ each tier with more depth; knowledge shown by a qualification or an equivalent; 
 by a written account that another person corroborates, and a professional discussion with an
 independent assessor; a minimum time in a role; a route for experience only; renewal with
 continuing development.
+
+## 5. Open foundations for the two profiles
+
+### The International Personality Item Pool (IPIP)
+
+Confirmed at ipip.ori.org.
+
+- The site states that the items and scales are in the public domain, and that anyone can copy,
+  edit, translate or use them for any purpose, commercial or non-commercial, with no permission
+  and no fee.
+- The pool has 3,320 items and more than 250 scales. Items are short phrases, rated on a
+  five-point scale from "very inaccurate" to "very accurate".
+- The site asks users to cite the scale authors and to keep the authors' scale names for their
+  scales only. A product must not be called "the IPIP".
+- The founder of the site died in March 2026. OL keeps its own copy of each key that it uses.
+
+Scale sets that OL can build on:
+
+| Scale set | Size | Published reliability (alpha) |
+|---|---|---|
+| Big Five factor markers | 50 or 100 items | .79 to .87 (50 items), .88 to .91 (100 items) |
+| IPIP-NEO, 30 facets | 300 items, 10 for each facet | Mean facet alpha about .80 |
+| IPIP-NEO-120 (Johnson 2014) | 120 items, 4 for each facet | Domains .81 to .90. Facets .63 to .88 |
+| IPIP-IPC (Markey and Markey 2009) | 32 items, 8 scales | Not read |
+| AB5C | 45 facet scales | Given for each facet on the key page |
+
+Design effect: a four-item facet is too short to report alone. Each reported OL score needs
+about 12 items or more.
+
+### Norm data
+
+- The IPIP gives no norms and recommends local norms from the user's own sample.
+- Johnson's public repository holds very large internet samples (more than 300,000 and 600,000
+  respondents). No licence is set on it. Not confirmed as public domain.
+- Twomey and Johnson published open norms for the UK and Ireland (18,591 respondents). The
+  sample is young internet volunteers, with no data on work.
+- No open norm set for UK working adults was found. The OL pilot must collect its own.
+
+### Science base
+
+The papers below were seen as references or abstracts. Their full text must be read before the
+technical manual cites a result.
+
+- The Big Five (extraversion, agreeableness, conscientiousness, emotional stability, openness)
+  is the base of both profiles.
+- Two interpersonal axes are well supported: agency (taking charge) and warmth. They are
+  rotations of extraversion and agreeableness (McCrae and Costa 1989; DeYoung and others 2013).
+- Conscientiousness and openness give two more axes that are independent of the interpersonal
+  pair.
+- A "pace" axis has weak support. It is a blend of facets with low reliability.
+- For preference measures, the evidence does not support sorting people into two-sided types.
+  Scores have one peak near the middle (McCrae and Costa 1989). Continuous scores keep more
+  information and are more stable.
+- The same five domains feed both profiles. The technical manual must report how strongly the
+  scores of the two profiles correlate.
+
+### Standards for test quality
+
+| Standard | Use for OL | Licence |
+|---|---|---|
+| EFPA Test Review Model 5.0 (August 2025) | The structure of the technical manual, and guide values for reliability and norm samples | CC BY-SA 4.0 (confirmed) |
+| British Psychological Society, Psychological Testing Centre | The review body that a UK reader knows | Copyright. Criteria text not read |
+| International Test Commission guidelines | Good practice for test use and online testing | Copyright, all rights reserved. Cite only |
+
+EFPA guide values: internal consistency of .70 is adequate and .80 is good. A reliability study
+needs more than 100 people. A norm group for low-stakes use needs 200 to 300 people or more.
+
+Open analysis tools: the R packages `psych`, `lavaan`, `semTools` and `circumplex` (all GPL).
+They are analysis tools. Their licence does not apply to OL content.
+
+### Data protection (ICO guidance, OGL v3.0, confirmed)
+
+- Personality is not special category data. An inference about health, belief or politics is.
+  OL uses no item or report text that touches those areas.
+- An automatically scored personality questionnaire is profiling in the terms of UK GDPR.
+- Consent is a weak basis where an employer asks staff to take part. The profile must be
+  voluntary in fact, and the person sees the result first.
+- Personal data must not be kept for longer than necessary. Identified results and the
+  anonymous research data set are kept apart, with a published retention schedule.
+- Several ICO pages are under review because of the Data (Use and Access) Act 2025. They must be
+  read again before a profile is launched.
+
+### Names to avoid
+
+- The owners of the two incumbent profile tools state registered trade marks on their product
+  names. No register was searched.
+- Existing free tools use the pattern "Open" plus a construct plus "Test" or "Scales". OL profile
+  names do not use that pattern, the letters of any four-style model, colour names, or "IPIP".
