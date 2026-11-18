@@ -1,3 +1,6 @@
+---
+title: How to contribute
+---
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
 # How to contribute
