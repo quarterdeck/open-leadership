@@ -89,8 +89,8 @@ Kris's approval.
 2. Framework core: level descriptors, credit rules, unit bank. Done.
 3. Qualifications: management, then leadership, then people practice, with the unit overlap
    check (`research/unit-overlap-check.md`). Written.
-4. Profiles: item banks, scoring, technical manuals, report templates.
-5. Review: originality check against the hard rules.
+4. Profiles: item banks, scoring, technical manuals, report templates. Written. No pilot yet.
+5. Review: originality check against the hard rules (`research/originality-review.md`).
 
 Work on one workstream at a time. Commit after each unit of work with a clear message and push
 to `main`.
@@ -139,4 +139,16 @@ GitHub Pages builds the site from the root of `main` with its built-in Jekyll (`
 There is no build step and no workflow. The Markdown files are the pages, and `README.md` is the
 home page. The address is https://quarterdeck.github.io/open-leadership/.
 
-There are no lint or test commands until the scoring code exists (Phase 4).
+## Profiles and tests
+
+- `profiles/scoring/ol_scoring.py` scores both profiles. The `item-bank.csv` of a profile is its
+  scoring key. `profiles/pilot/analysis.py` analyses pilot data and imports the scoring code.
+  Both use only the Python standard library.
+- Run the tests from the root:
+  `python3 -m unittest discover -s profiles/scoring -p "test_*.py"` and
+  `python3 -m unittest discover -s profiles/pilot -p "test_*.py"`.
+  One test: `cd profiles/scoring && python3 -m unittest test_ol_scoring.Band`.
+- Item wording is the IPIP wording with no change. An item is in one scale only, across both
+  profiles. The tests check this.
+- No evidence exists yet. Do not write a claim about reliability, validity or norms before
+  the pilot. A score is a position on a line with a band: no types, colours, wheels or letters.

@@ -30,8 +30,9 @@ All qualifications use one bank of units and one credit system.
 
 ## Status
 
-Draft. The qualifications are written and wait for review. The two profiles are not written
-yet. Nobody has tested the qualifications with learners.
+Draft. All five parts are written and wait for review. Nobody has tested the qualifications
+with learners. The profiles have had no pilot: they have no norms, and their reliability and
+validity are not known.
 
 - [Qualifications](qualifications/README.md): 17 qualifications, each with a specification, unit
   summaries, an assessment guide, a centre guide and a learner handbook
@@ -39,6 +40,8 @@ yet. Nobody has tested the qualifications with learners.
 - [Level descriptors](framework/level-descriptors.md)
 - [Credit and assessment rules](framework/credit-and-assessment-rules.md), with the rules for
   certificates, badges and CPD
+- [Profiles](profiles/README.md): the OL Behaviour Profile and the OL Preference Profile, with
+  item banks, scoring code, technical manuals, report templates and the pilot plan
 - People practice: [competence framework](qualifications/people-practice/competence-framework.md)
   and [recognition scheme](qualifications/people-practice/recognition-scheme.md)
 - [Governance](GOVERNANCE.md) and [how to contribute](CONTRIBUTING.md)
