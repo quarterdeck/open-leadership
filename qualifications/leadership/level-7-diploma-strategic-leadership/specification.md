@@ -124,4 +124,4 @@ unregulated framework." The holder can use the badge
 ## Progression
 
 - OL Level 7 Diploma in Strategic Management. Two core units count towards it.
-- OL Level 7 Certificate in Executive Coaching and Mentoring.
+- OL Level 7 Certificate in Senior Coaching and Mentoring.

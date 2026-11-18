@@ -119,6 +119,8 @@ fits.
 
 ## Pressure: {pressure.position}
 
+*Leave this section out if the Pressure scale has no score. The scale is optional.*
+
 Pressure is about how soon you notice risk and feel the weight of events.
 
 **Steady.** You stay calm when things go wrong, and you recover fast. It takes much to worry

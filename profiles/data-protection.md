@@ -26,8 +26,8 @@ guidance of the Information Commissioner's Office before you start.
 5. **No special category data.** No item and no report text asks about a health condition,
    belief, politics, sexual life or ethnic origin. Do not add such questions. The Pressure
    scale of the preference profile asks how soon a person worries and feels pressure. It is a
-   normal difference between people, but treat that score with the most care, and consider
-   leaving the scale out if your organisation cannot do so.
+   normal difference between people, but treat that score with the most care. The scale is
+   optional: your organisation can leave its 12 items out, and a person can leave them empty.
 6. **Short retention.** Delete identified answers and results after 12 months or less, or
    sooner if the person asks. Tell the person the period.
 7. **Deletion on request.** The person can delete their result at any time, and the

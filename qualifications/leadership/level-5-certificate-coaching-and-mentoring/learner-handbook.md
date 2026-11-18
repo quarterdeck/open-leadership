@@ -115,4 +115,4 @@ Questions that you can expect:
 ## What next
 
 - OL Level 5 Diploma in Leadership Practice. One unit counts towards it.
-- OL Level 7 Certificate in Executive Coaching and Mentoring.
+- OL Level 7 Certificate in Senior Coaching and Mentoring.

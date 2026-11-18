@@ -112,4 +112,4 @@ unregulated framework." The holder can use the badge
 ## Progression
 
 - OL Level 5 Diploma in Leadership Practice. One unit counts towards it.
-- OL Level 7 Certificate in Executive Coaching and Mentoring.
+- OL Level 7 Certificate in Senior Coaching and Mentoring.

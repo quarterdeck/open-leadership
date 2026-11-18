@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL Level 7 Certificate in Executive Coaching and Mentoring
+# OL Level 7 Certificate in Senior Coaching and Mentoring
 
 ## Learner handbook
 
@@ -99,7 +99,7 @@ Questions that you can expect:
 - You can show the badge
   [`ol-level-7-certificate.svg`](../../../badges/ol-level-7-certificate.svg) on your profile or
   your email signature.
-- Write the title in full: "OL Level 7 Certificate in Executive Coaching and Mentoring". Do not
+- Write the title in full: "OL Level 7 Certificate in Senior Coaching and Mentoring". Do not
   describe it as accredited or regulated.
 
 ## If something goes wrong

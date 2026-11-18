@@ -95,6 +95,11 @@ read the published papers in full before a later version of this manual cites th
 - **Pressure.** A higher score means that a person notices risk and feels pressure sooner. It
   is a normal difference between people, and it is useful to a team. It is not a statement
   about health, and a report must never present it as one.
+- **Pressure is optional.** An organisation can leave the 12 Pressure items out of the
+  questionnaire, which then has 48 items. If the organisation includes them, each person can
+  still leave them empty. The scale then has no score, and the report leaves out its section.
+  The other four scores do not change. An employer that holds a score about worry and
+  pressure must have a clear reason to do so.
 
 ## 4. The items
 

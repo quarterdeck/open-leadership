@@ -9,7 +9,7 @@ Open Leadership has two questionnaires that help people to talk about how they w
 | Profile | Question it answers | Scores | Items | Time |
 |---|---|---|---|---|
 | [OL Behaviour Profile](behaviour-profile/technical-manual.md) | How do I tend to act with people and tasks at work? | Voice, Warmth, Method, Exploration | 48 | About 8 minutes |
-| [OL Preference Profile](preference-profile/technical-manual.md) | In which conditions do I do my best work? | Company, Focus, Decisions, Planning, Pressure | 60 | About 10 minutes |
+| [OL Preference Profile](preference-profile/technical-manual.md) | In which conditions do I do my best work? | Company, Focus, Decisions, Planning, and Pressure (optional) | 60, or 48 without Pressure | About 10 minutes |
 
 ## What you must know before you use them
 

@@ -34,6 +34,8 @@ If your organisation cannot keep these five promises, do not use the profile.
 
 - Use the 60 items in the order of the item bank, with the instruction and the response
   labels from section 5 of the technical manual.
+- The Pressure scale is optional. Decide before the session if you include its 12 items. If
+  you include them, tell each person that they can leave them empty.
 - Score the answers with the open scoring code. Do not change the scoring.
 
 ## A one-to-one conversation (45 minutes)

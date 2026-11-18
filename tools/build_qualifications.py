@@ -55,7 +55,7 @@ INFO = {
  "OL Level 7 Diploma in Strategic Leadership": (
   "A senior leader or a director who leads other leaders and shapes the direction and culture of an organisation.",
   "The work of a senior leader: lead at senior level, set and execute strategy, and lead leaders and culture, with one further area that the learner selects.",
-  ["OL Level 7 Diploma in Strategic Management. Two core units count towards it.", "OL Level 7 Certificate in Executive Coaching and Mentoring."]),
+  ["OL Level 7 Diploma in Strategic Management. Two core units count towards it.", "OL Level 7 Certificate in Senior Coaching and Mentoring."]),
  "OL Level 3 Award in Workplace Coaching": (
   "A manager, team leader or colleague who wants to coach people at work as part of their job.",
   "The skills of a coaching conversation, and supervised practice of coaching at work.",
@@ -63,15 +63,15 @@ INFO = {
  "OL Level 5 Certificate in Coaching and Mentoring": (
   "A manager or a practitioner who coaches or mentors people regularly, inside one organisation or for clients.",
   "The practice of coaching and mentoring, the conditions that make coaching work in an organisation, and reflective practice.",
-  ["OL Level 5 Diploma in Leadership Practice. One unit counts towards it.", "OL Level 7 Certificate in Executive Coaching and Mentoring."]),
- "OL Level 7 Certificate in Executive Coaching and Mentoring": (
+  ["OL Level 5 Diploma in Leadership Practice. One unit counts towards it.", "OL Level 7 Certificate in Senior Coaching and Mentoring."]),
+ "OL Level 7 Certificate in Senior Coaching and Mentoring": (
   "An experienced coach or mentor who works with senior managers, and a senior leader who coaches other leaders.",
   "Coaching and mentoring at senior level, with supervision and ethics.",
   ["OL Level 7 Diploma in Strategic Leadership. One unit counts towards it."]),
  "OL Level 3 Certificate in People Practice": (
   "A person in a first HR or learning and development role, or a manager or administrator who does people work as part of another job.",
   "The foundations of people practice: what the function does through the employee life cycle, how to handle people records lawfully, and two further areas that fit the learner's role.",
-  ["OL Level 5 Diploma in People Practice, in either pathway.", "The grade OL Associate in People Practice, with experience. See the [recognition scheme](../recognition-scheme.md)."]),
+  ["OL Level 5 Diploma in People Practice, in either pathway.", "The grade OL Foundation Practitioner in People Practice, with experience. See the [recognition scheme](../recognition-scheme.md)."]),
  "OL Level 5 Diploma in People Practice (people management pathway)": (
   "An HR adviser, an HR business partner or a people manager in a generalist role, who gives advice and makes decisions without close supervision.",
   "Professional people practice at operational level in resourcing, employee relations and reward, on a base of ethics, evidence and knowledge of organisations.",
@@ -302,7 +302,7 @@ def build(q, units, allq):
             "The learner gives reasons for their decisions.",
             f"The answers show the knowledge, skills and scope of Level {level}.",
             "The learner can say what they would do differently."]) + "\n\n" + wrap("If the panel refers the learner, it gives written reasons and says what the learner must show. The learner can return to a panel one time.") + "\n\n"
-    ag += "## The assessment record\n\nKeep this record for each certificate for six years or more:\n\n" + bullets([
+    ag += "## The assessment record\n\nKeep this record for each certificate for six years from the date of the certificate, then delete it:\n\n" + bullets([
         "the learner's name, the qualification title and the version of the specification",
         "the units, with the assessor's decision and date for each",
         "an index of the evidence",
@@ -340,7 +340,7 @@ def build(q, units, allq):
         "an assessor judges each unit against its criteria",
         "a second person checks a sample",
         (f"a panel of {psize} reviews each learner at the end" if panel else "there is no panel for an Award"),
-        "you keep the assessment record for six years or more"]) + "\n\n" + wrap("We recommend a simple appeal route: a learner who disagrees with a decision can ask for a review by a person who took no part in it. Tell learners about the route at the start.") + "\n\n"
+        "you keep the assessment record for six years, then delete it"]) + "\n\n" + wrap("We recommend a simple appeal route: a learner who disagrees with a decision can ask for a review by a person who took no part in it. Tell learners about the route at the start.") + "\n\n"
     cg += "## Records and personal data\n\n" + bullets([
         "The assessment record contains personal data. You are the controller of that data under UK data protection law.",
         "Tell the learner what you keep, why, and for how long.",

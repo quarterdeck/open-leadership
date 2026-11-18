@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL Level 7 Certificate in Executive Coaching and Mentoring
+# OL Level 7 Certificate in Senior Coaching and Mentoring
 
 ## Specification
 
@@ -10,7 +10,7 @@ guide](centre-guide.md), [learner handbook](learner-handbook.md).
 
 | | |
 |---|---|
-| Title | OL Level 7 Certificate in Executive Coaching and Mentoring |
+| Title | OL Level 7 Certificate in Senior Coaching and Mentoring |
 | Level | 7 |
 | Size | Certificate |
 | Credits | 20 |

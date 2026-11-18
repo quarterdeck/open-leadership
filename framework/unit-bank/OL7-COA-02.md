@@ -103,4 +103,4 @@ Evidence requirements:
 
 | Qualification | Role |
 |---|---|
-| OL Level 7 Certificate in Executive Coaching and Mentoring | Core |
+| OL Level 7 Certificate in Senior Coaching and Mentoring | Core |

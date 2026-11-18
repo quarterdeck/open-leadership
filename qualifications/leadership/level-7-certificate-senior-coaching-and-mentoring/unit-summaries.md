@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL Level 7 Certificate in Executive Coaching and Mentoring
+# OL Level 7 Certificate in Senior Coaching and Mentoring
 
 ## Unit summaries
 

@@ -143,7 +143,11 @@ An Award has no panel. The unit assessment and the second check are sufficient.
 
 ### Step 3: the record
 
-The issuing organisation keeps an assessment record for each certificate, for at least six years:
+The issuing organisation keeps an assessment record for each certificate for six years from
+the date of the certificate, and then deletes it. Six years is the usual time limit for a
+claim about a contract in England and Wales, so a record is available while a dispute is
+possible. If a learner asks in writing, the organisation can keep the record longer, so that
+it can confirm the certificate to an employer. The record holds:
 
 - the learner's name, the qualification title and the version of the specification
 - the units, with the assessor's decision and date for each
@@ -176,7 +180,7 @@ The badge files are in [`badges/`](../badges/). They are free to use under these
 | Qualification badge (level and size) | A learner who holds a valid certificate, and the organisation that issued it, with reference to that learner or that programme |
 | Open Leadership CPD badge | See section 8 |
 
-- Do not change the words on a badge. Do not add words such as "accredited" or "approved".
+- Each badge carries the words "independent, unregulated". Do not change the words on a badge. Do not add words such as "accredited" or "approved".
 - A training provider can state that a programme "leads to" or "is assessed against" an Open
   Leadership qualification, and show the badge next to that statement.
 

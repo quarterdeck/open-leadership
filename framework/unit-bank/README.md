@@ -142,7 +142,7 @@ Each qualification needs all of its core units, plus the stated number of option
 | OL Level 7 Diploma in Strategic Leadership | 40 | [OL7-SLF-01](OL7-SLF-01.md), [OL7-STR-01](OL7-STR-01.md), [OL7-PEO-01](OL7-PEO-01.md) | 1 from: [OL7-CHG-01](OL7-CHG-01.md), [OL7-STR-02](OL7-STR-02.md), [OL7-STR-03](OL7-STR-03.md), [OL7-COA-01](OL7-COA-01.md) |
 | OL Level 3 Award in Workplace Coaching | 10 | [OL3-COA-01](OL3-COA-01.md), [OL3-COA-02](OL3-COA-02.md) | None |
 | OL Level 5 Certificate in Coaching and Mentoring | 18 | [OL5-COA-01](OL5-COA-01.md), [OL5-COA-02](OL5-COA-02.md), [OL5-COA-03](OL5-COA-03.md) | None |
-| OL Level 7 Certificate in Executive Coaching and Mentoring | 20 | [OL7-COA-01](OL7-COA-01.md), [OL7-COA-02](OL7-COA-02.md) | None |
+| OL Level 7 Certificate in Senior Coaching and Mentoring | 20 | [OL7-COA-01](OL7-COA-01.md), [OL7-COA-02](OL7-COA-02.md) | None |
 
 ### C. People practice
 

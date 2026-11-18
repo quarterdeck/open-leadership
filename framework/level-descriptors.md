@@ -26,7 +26,7 @@ wording. The scope strand is an addition by Open Leadership.
 ## Level 3
 
 Typical learner: a team leader, a supervisor or a new first-line manager.
-Comparable level of demand: A level.
+In the regulated framework, this is the level at which A levels sit.
 
 **Knowledge.** The learner:
 
@@ -50,7 +50,7 @@ Comparable level of demand: A level.
 ## Level 5
 
 Typical learner: a middle manager or an experienced first-line manager.
-Comparable level of demand: a foundation degree.
+In the regulated framework, this is the level at which foundation degrees sit.
 
 **Knowledge.** The learner:
 
@@ -74,7 +74,7 @@ Comparable level of demand: a foundation degree.
 ## Level 7
 
 Typical learner: a senior manager or a director.
-Comparable level of demand: a master's degree.
+In the regulated framework, this is the level at which master's degrees sit.
 
 **Knowledge.** The learner:
 

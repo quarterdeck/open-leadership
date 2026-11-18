@@ -4,7 +4,7 @@
 
 Build an open, freely licensed framework of qualifications and profiling tools that serve the same practical purpose as the following proprietary offerings:
 
-| Proprietary offering | Open equivalent (working name) |
+| Proprietary offering | Comparable open offering (working name) |
 |---|---|
 | CMI qualifications | OL Management Qualifications |
 | ILM qualifications | OL Leadership Qualifications |
@@ -36,27 +36,27 @@ These override every other instruction in this document. If a task seems to need
 
 ## 4. Workstreams
 
-### A. OL Management Qualifications (CMI equivalent)
+### A. OL Management Qualifications (comparable in level and scope with CMI)
 - Research the public structure of CMI qualification families: levels 2 to 7, award / certificate / diploma sizes, credit and total qualification time, typical unit themes, assessment approaches (assignments, work-based evidence, professional discussion).
 - Design an original ladder, for example: Level 3 Award in Management Practice, Level 5 Certificate and Diploma in Management Practice, Level 7 Diploma in Strategic Management.
 - Per qualification: purpose, target learner, entry guidance, unit list with credit values, learning outcomes and assessment criteria, assessment methods, grading rules, evidence requirements.
 
-### B. OL Leadership Qualifications (ILM equivalent)
+### B. OL Leadership Qualifications (comparable in level and scope with ILM)
 - Same method as A, with the emphasis on leadership: first-line leader, middle manager, senior leader, coaching and mentoring pathway.
 - Suggested ladder: Level 3 Award in Leadership Practice, Level 5 Certificate/Diploma in Leadership Practice, Level 7 Diploma in Strategic Leadership.
 - Share units with workstream A where sensible, so the whole set forms one modular credit system.
 
-### C. OL People Practice Qualifications (CIPD equivalent)
+### C. OL People Practice Qualifications (comparable in level and scope with CIPD)
 - Research the public structure of CIPD qualifications (foundation, associate, intermediate, advanced levels) and membership grades.
 - Design an original pathway for HR and L&D practitioners with unit specifications, and a **membership-grade style recognition scheme** (for example Associate, Practitioner, Senior Practitioner) based on qualification plus evidenced experience.
 - The CIPD Profession Map is copyrighted. Build the competency framework from the UK NOS for HR and L&D and from published research, and make it structurally different.
 
-### D. OL Behaviour Profile (DiSC equivalent)
+### D. OL Behaviour Profile (comparable in purpose with DiSC)
 - Build an original four-dimension behavioural style questionnaire.
 - Use the **International Personality Item Pool (IPIP)** (public domain) as the source of questionnaire items, and the Big Five literature as the scientific base. Do not reuse DiSC items, adjective checklists, scoring keys, the circular map or the letter model. Name the dimensions and the model afresh.
 - Deliverables: item bank, administration instructions, scoring method (in code and in documentation), norm-group approach, individual report template, team report template, facilitator guide.
 
-### E. OL Preference Profile (Insights Discovery equivalent)
+### E. OL Preference Profile (comparable in purpose with Insights Discovery)
 - Build an original preference profile covering a small number of preference dimensions with a clear, plain-English model for non-specialists.
 - Do not reuse the colour-energy names, the 72-type wheel, the Jungian presentation as Insights uses it, report wording or scoring. Choose a different visual language.
 - Same deliverable set as D. Share the item pool and scoring engine with D where the science supports it, and state clearly where the two instruments differ in purpose.

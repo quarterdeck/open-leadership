@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL Level 7 Certificate in Executive Coaching and Mentoring
+# OL Level 7 Certificate in Senior Coaching and Mentoring
 
 ## Assessment guide
 
@@ -134,7 +134,7 @@ learner can return to a panel one time.
 
 ## The assessment record
 
-Keep this record for each certificate for six years or more:
+Keep this record for each certificate for six years from the date of the certificate, then delete it:
 
 - the learner's name, the qualification title and the version of the specification
 - the units, with the assessor's decision and date for each

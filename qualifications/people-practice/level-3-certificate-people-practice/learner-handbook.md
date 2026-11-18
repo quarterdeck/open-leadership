@@ -122,5 +122,5 @@ Questions that you can expect:
 ## What next
 
 - OL Level 5 Diploma in People Practice, in either pathway.
-- The grade OL Associate in People Practice, with experience. See the [recognition
+- The grade OL Foundation Practitioner in People Practice, with experience. See the [recognition
   scheme](../recognition-scheme.md).

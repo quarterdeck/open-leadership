@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL Level 7 Certificate in Executive Coaching and Mentoring
+# OL Level 7 Certificate in Senior Coaching and Mentoring
 
 ## Centre guide
 
@@ -73,7 +73,7 @@ Follow the [assessment guide](assessment-guide.md). In short:
 - an assessor judges each unit against its criteria
 - a second person checks a sample
 - a panel of two reviews each learner at the end
-- you keep the assessment record for six years or more
+- you keep the assessment record for six years, then delete it
 
 We recommend a simple appeal route: a learner who disagrees with a decision can ask for a review by
 a person who took no part in it. Tell learners about the route at the start.
@@ -89,8 +89,8 @@ a person who took no part in it. Tell learners about the route at the start.
 ## Certificates, badges and what you can say
 
 - Issue the certificate in your own name. It states the learner's name, the full title "OL Level 7
-  Certificate in Executive Coaching and Mentoring", the version of the specification, the date,
-  and this sentence: "Issued by [organisation] against the Open Leadership specification. Open
+  Certificate in Senior Coaching and Mentoring", the version of the specification, the date, and
+  this sentence: "Issued by [organisation] against the Open Leadership specification. Open
   Leadership is an independent, unregulated framework."
 - The learner and your organisation can use the badge
   [`ol-level-7-certificate.svg`](../../../badges/ol-level-7-certificate.svg) with reference to

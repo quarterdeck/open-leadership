@@ -91,8 +91,8 @@ Kris's approval.
    check (`research/unit-overlap-check.md`). Written.
 4. Profiles: item banks, scoring, technical manuals, report templates. Written. No pilot yet.
 5. Review: originality check against the hard rules. Done. `research/originality-review.md`
-   lists 14 decisions that wait for Kris. Read it before you change a title, a profile model or
-   a badge.
+   records the 14 decisions that Kris made after it. Read it before you change a title, a
+   profile model or a badge.
 
 Work on one workstream at a time. Commit after each unit of work with a clear message and push
 to `main`.
@@ -108,7 +108,8 @@ to `main`.
 - Names: write "Open Leadership" in full in documentation. Use the prefix "OL" only in the
   names of qualifications and profiles, and in unit codes.
 - Badges: `badges/` holds the badge files, made from Quarterdeck's own badge design with an
-  "OL" rosette. A badge never says "accredited". There is a qualification badge for each level
+  "OL" rosette. A badge never says "accredited", and each badge carries the words
+  "independent, unregulated". There is a qualification badge for each level
   and size, and an Open Leadership CPD badge.
 - The owner of the framework in the long term is not decided. Quarterdeck is the steward.
 

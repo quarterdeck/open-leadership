@@ -197,6 +197,12 @@ class ItemBanks(unittest.TestCase):
             self.assertEqual(len({r["id"] for r in rows}), len(rows))
             self.assertEqual([int(r["order"]) for r in rows], list(range(1, len(rows) + 1)))
 
+    def test_the_preference_profile_scores_without_the_optional_pressure_items(self):
+        bank = s.load_item_bank(BANKS["preference-profile"])
+        result = s.score_profile(bank, {i: 3 for i, (scale, _) in bank.items() if scale != "Pressure"})
+        self.assertIsNone(result["Pressure"]["score"])
+        self.assertTrue(all(r["score"] == 50.0 for scale, r in result.items() if scale != "Pressure"))
+
     def test_the_item_banks_load_and_score(self):
         for name in BANKS:
             bank = s.load_item_bank(BANKS[name])

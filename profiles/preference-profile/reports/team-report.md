@@ -50,6 +50,9 @@ Steady         |---o--o--|----M----|:::::::o:|---------|--o------|   Alert
 | Planning | {planning.lowest} | {planning.median} | {planning.highest} | {planning.spread} |
 | Pressure | {pressure.lowest} | {pressure.median} | {pressure.highest} | {pressure.spread} |
 
+The Pressure scale is optional. Leave out its line and its row if fewer than five people have
+a Pressure score.
+
 ## What a spread means
 
 **Most of the team is on one side.** The team's habits probably suit that side. Ask who pays

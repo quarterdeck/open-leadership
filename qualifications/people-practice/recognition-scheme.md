@@ -14,7 +14,7 @@ professional body, and it is not a chartered title. No body endorses it.
 
 | Grade | Depth | Knowledge | Experience |
 |---|---|---|---|
-| OL Associate in People Practice | Support | OL Level 3 Certificate in People Practice, or a comparable qualification | 1 year in a people practice role |
+| OL Foundation Practitioner in People Practice | Support | OL Level 3 Certificate in People Practice, or a comparable qualification | 1 year in a people practice role |
 | OL Practitioner in People Practice | Practise | OL Level 5 Diploma in People Practice, or a comparable qualification | 2 years, in which the person advised managers or ran cases or projects without close supervision |
 | OL Senior Practitioner in People Practice | Lead | OL Level 7 Diploma in Strategic People Practice, or a comparable qualification | 4 years, with 1 year or more in which the person set policy or strategy or led other practitioners |
 
@@ -43,7 +43,7 @@ The candidate writes an account of their practice.
 
 | Grade | Length | Content |
 |---|---|---|
-| Associate | About 1,000 words | Two examples of work at the Support depth, in two practice areas |
+| Foundation Practitioner | About 1,000 words | Two examples of work at the Support depth, in two practice areas |
 | Practitioner | About 2,000 words | Three examples at the Practise depth, in three practice areas. One example shows a difficult judgement |
 | Senior Practitioner | About 3,000 words | Three examples at the Lead depth, in three practice areas. One example shows a change in the organisation that the candidate led, with its results |
 
@@ -55,7 +55,7 @@ people are made anonymous.
 
 | Grade | Review |
 |---|---|
-| Associate | One reviewer reads the account and the confirmations. A second person checks a sample of the reviewer's decisions |
+| Foundation Practitioner | One reviewer reads the account and the confirmations. A second person checks a sample of the reviewer's decisions |
 | Practitioner | A professional discussion of about 45 minutes with a panel of two people |
 | Senior Practitioner | A professional discussion of about 60 minutes with a panel of three people. One member or more comes from outside the candidate's organisation |
 
@@ -67,7 +67,8 @@ people are made anonymous.
 
 ### Step 3: the record
 
-The organisation keeps a record for six years or more: the candidate's name, the grade, the
+The organisation keeps a record for six years from the date of the decision, and then deletes
+it: the candidate's name, the grade, the
 qualification that was accepted or the use of the experience route, the account, the
 confirmations, the names and roles of the reviewers, their statements of independence, the
 decision, the reasons and the date. The candidate gets a copy.
@@ -82,7 +83,7 @@ Open Leadership CPD are in section 8 of the
 
 ## What a holder can say
 
-- "OL Associate in People Practice (2027), confirmed by [organisation] against the Open
+- "OL Foundation Practitioner in People Practice (2027), confirmed by [organisation] against the Open
   Leadership recognition scheme."
 - Do not shorten a grade to letters after a name.
 - Do not say or imply that the grade is membership of a professional body, a chartered title, a

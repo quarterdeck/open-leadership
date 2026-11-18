@@ -75,7 +75,7 @@ Follow the [assessment guide](assessment-guide.md). In short:
 - an assessor judges each unit against its criteria
 - a second person checks a sample
 - a panel of three reviews each learner at the end
-- you keep the assessment record for six years or more
+- you keep the assessment record for six years, then delete it
 
 We recommend a simple appeal route: a learner who disagrees with a decision can ask for a review by
 a person who took no part in it. Tell learners about the route at the start.

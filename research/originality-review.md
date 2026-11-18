@@ -3,7 +3,7 @@
 # Originality review
 
 Date: 18 November 2026. This is Phase 5 of the specification: a check of all content against
-the hard rules, with a list of each passage that a person must review.
+the hard rules, with a list of each passage that a person must review. The decisions were made on the same day.
 
 ## Method and its limit
 
@@ -27,26 +27,28 @@ the public source before a decision.
 - The risk is in names and structure. Some qualification titles are close to existing titles.
   Some well-known models were recognisable in plain words. The preference profile follows a
   well-known public idea. Some data protection promises were stronger than the design.
-- 33 points were corrected. 14 decisions are open for a person.
+- 33 points were corrected. Kris made the 14 decisions that the review left open.
 
-## Open decisions for a person
+## Decisions
 
-| No. | Subject | Concern | Options |
+Kris approved these decisions on 18 November 2026. Each row was an open decision of the review.
+
+| No. | Subject | Concern | Decision |
 |---|---|---|---|
-| 1 | The titles of the people practice qualifications | "Level 3 Certificate in People Practice", the two Level 5 pathways and "Level 7 Diploma in Strategic People Practice" are close to the titles of the main UK HR body. "People practice" is that body's term. The specification itself set the family name | Keep, or rename the family (for example "HR and Learning Practice") |
-| 2 | The titles of the coaching qualifications | "Level 7 Certificate in Executive Coaching and Mentoring" and "Level 5 Certificate in Coaching and Mentoring" are the same as regulated titles that are available now (see the register check below) | Keep as generic titles, or rename |
-| 3 | Coaching practice hours | OL3-COA-02 (6 hours), OL5-COA-01 (12 hours) and OL7-COA-01 (20 hours) may be the same ladder as another body's coaching qualifications. The register check confirmed none of the three numbers from a page of that body | Keep as public facts, or set different hours with our own reasons |
-| 4 | The people practice unit set | The Level 5 and Level 7 units cover the same subjects as the units of the main UK HR body, almost one to one. The wording is our own. Titles still close: OL7-PPR-02 "Strategic employment relations and reward", OL7-PPR-03 "Organisation design and development" | Accept as "comparable in scope", or change the division of subjects |
-| 5 | The competence framework | The split into general areas and specialist areas, and the names of the specialist areas, have the same form as the copyright map of the main UK HR body. The areas are also ordinary names of HR functions | Keep, or remove the split |
-| 6 | The recognition scheme | A ladder of three grades on qualification plus experience, with yearly CPD, has the form of membership grades. "Associate" is a membership grade name elsewhere | Keep, rename the first grade, or remove the scheme |
-| 7 | The OL Preference Profile model | The first four scales follow the public preference pairs of C. G. Jung, in the usual order, as several commercial tools do. The profile now says so. The scores are continuous, with no letters, colours or types. Some report phrases ("gets energy from company", "keep options open") are common in reports of such tools | Keep, or rebuild the profile directly on the five-factor model with one-sided scales |
-| 8 | The Pressure scale | Its items are about worry and pressure, and its public source scales are named "Anxiety" and "Vulnerability". The report text avoids all health language. An employer still holds a score of this kind | Keep with the present cautions, make it optional, or remove it |
-| 9 | The OL Behaviour Profile model | Four dimensions invite a comparison with four-style commercial tools. Voice and Method are near two of the well-known four styles. The straight-line chart is near the chart of another commercial four-factor tool that is not in the specification. The reviewer judged the distance adequate | Keep, or add a fifth dimension so that the count differs |
-| 10 | Levels, sizes and badges | The titles use "Level", "Award", "Certificate" and "Diploma" with the regulated meanings, on purpose. A badge shows only "OPEN LEADERSHIP" and, for example, "LEVEL 5 DIPLOMA". A person who sees only a badge or a title does not see the word "unregulated" | Add "independent, unregulated" to the badge, or require the sentence next to each title |
-| 11 | The comparisons in the level descriptors | "Comparable level of demand: A level / a foundation degree / a master's degree". The form is the permitted one, but a small unregulated diploma next to "a master's degree" implies much | Keep, or change to "the level at which A levels sit" |
-| 12 | NOTICE | It names the six organisations to state that there is no connection. A reference by name needs a human review. Check the legal name of each. The register check below shows that one name is out of date | Review and correct |
-| 13 | Retention of assessment records | "At least six years" has no upper limit and no stated reason, and the record holds personal data | Set a period and a reason |
-| 14 | The public specification | `docs/agent-spec.md` describes each part as the "equivalent" of a named offering. It was published by decision | Keep, or edit the public copy |
+| 1 | The titles of the people practice qualifications | "Level 3 Certificate in People Practice", the two Level 5 pathways and "Level 7 Diploma in Strategic People Practice" are close to the titles of the main UK HR body. "People practice" is that body's term | Keep. The specification set the family name |
+| 2 | The titles of the coaching qualifications | The Level 7 title was the same as a regulated title of one organisation only. The Level 5 and Level 3 wording is used by three or more organisations (see the register check below) | Level 7 renamed to "OL Level 7 Certificate in Senior Coaching and Mentoring", a title that is not on the register. The others stay. The unit title OL7-COA-01 "Executive coaching and mentoring practice" stays |
+| 3 | Coaching practice hours | 6, 12 and 20 hours may be the same ladder as another body's coaching qualifications. No page of that body confirmed the numbers | Keep |
+| 4 | The people practice unit set | The Level 5 and Level 7 units cover the same subjects as the units of the main UK HR body, almost one to one. The wording is our own | Keep, as comparable in scope |
+| 5 | The competence framework | The split into general and specialist areas has the same form as the copyright map of the main UK HR body. The areas are ordinary names of HR functions | Keep |
+| 6 | The recognition scheme | "Associate" is a membership grade name elsewhere | Keep the scheme. The first grade is now "OL Foundation Practitioner in People Practice" |
+| 7 | The OL Preference Profile model | The first four scales follow the public preference pairs of C. G. Jung, as several commercial tools do. The profile says so. The scores are continuous, with no letters, colours or types | Keep |
+| 8 | The Pressure scale | Its items are about worry and pressure. An employer holds a score of this kind | The scale is optional, for the organisation and for each person |
+| 9 | The OL Behaviour Profile model | Four dimensions invite a comparison with four-style commercial tools. The reviewer judged the distance adequate | Keep |
+| 10 | Levels, sizes and badges | A person who saw only a badge did not see the word "unregulated" | Each badge now carries "INDEPENDENT, UNREGULATED" |
+| 11 | The comparisons in the level descriptors | "Comparable level of demand: a master's degree" implied much for a small unregulated diploma | Now "In the regulated framework, this is the level at which master's degrees sit", and the same form at Levels 3 and 5 |
+| 12 | NOTICE | One name was out of date on the register | Now "ILM (a brand of City & Guilds)" |
+| 13 | Retention of assessment records | "At least six years" had no upper limit and no reason | Six years, then delete. The reason is in the credit and assessment rules. A learner can ask in writing for a longer period |
+| 14 | The public specification | `docs/agent-spec.md` described each part as the "equivalent" of a named offering | The public copy now says "comparable" |
 
 Smaller points that stay open:
 
@@ -93,8 +95,7 @@ Names for `NOTICE`:
 - "John Wiley & Sons, Inc." and "The Insights Group Limited" are the names on the publishers'
   own sites. The trade mark owner of the second is not confirmed.
 
-`NOTICE` is not changed. A proposed wording: "ILM (a brand of City & Guilds)" in place of "the
-Institute of Leadership & Management (ILM)".
+`NOTICE` now has "ILM (a brand of City & Guilds)".
 
 ## Corrected in this review
 

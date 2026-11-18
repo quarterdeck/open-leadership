@@ -34,5 +34,8 @@ The position names the side of the scale:
 | Planning | Flexible | Balanced | Planned |
 | Pressure | Steady | Balanced | Alert |
 
+The Pressure scale is optional. If its items are empty or are not in the responses file, its
+`score` is `null` and the other scales are scored as usual.
+
 After the pilot, a third argument gives a norms file (`norms.json`), and the score is then a
 percentile.
