@@ -34,8 +34,8 @@ the public source before a decision.
 | No. | Subject | Concern | Options |
 |---|---|---|---|
 | 1 | The titles of the people practice qualifications | "Level 3 Certificate in People Practice", the two Level 5 pathways and "Level 7 Diploma in Strategic People Practice" are close to the titles of the main UK HR body. "People practice" is that body's term. The specification itself set the family name | Keep, or rename the family (for example "HR and Learning Practice") |
-| 2 | The titles of the coaching qualifications | "Level 7 Certificate in Executive Coaching and Mentoring" and "Level 5 Certificate in Coaching and Mentoring" may be the same as existing titles of another body | Check the Ofqual register, then keep or rename |
-| 3 | Coaching practice hours | OL3-COA-02 (6 hours), OL5-COA-01 (12 hours) and OL7-COA-01 (20 hours) may be the same ladder as another body's coaching qualifications | Keep as public facts, or set different hours with our own reasons |
+| 2 | The titles of the coaching qualifications | "Level 7 Certificate in Executive Coaching and Mentoring" and "Level 5 Certificate in Coaching and Mentoring" are the same as regulated titles that are available now (see the register check below) | Keep as generic titles, or rename |
+| 3 | Coaching practice hours | OL3-COA-02 (6 hours), OL5-COA-01 (12 hours) and OL7-COA-01 (20 hours) may be the same ladder as another body's coaching qualifications. The register check confirmed none of the three numbers from a page of that body | Keep as public facts, or set different hours with our own reasons |
 | 4 | The people practice unit set | The Level 5 and Level 7 units cover the same subjects as the units of the main UK HR body, almost one to one. The wording is our own. Titles still close: OL7-PPR-02 "Strategic employment relations and reward", OL7-PPR-03 "Organisation design and development" | Accept as "comparable in scope", or change the division of subjects |
 | 5 | The competence framework | The split into general areas and specialist areas, and the names of the specialist areas, have the same form as the copyright map of the main UK HR body. The areas are also ordinary names of HR functions | Keep, or remove the split |
 | 6 | The recognition scheme | A ladder of three grades on qualification plus experience, with yearly CPD, has the form of membership grades. "Associate" is a membership grade name elsewhere | Keep, rename the first grade, or remove the scheme |
@@ -44,7 +44,7 @@ the public source before a decision.
 | 9 | The OL Behaviour Profile model | Four dimensions invite a comparison with four-style commercial tools. Voice and Method are near two of the well-known four styles. The straight-line chart is near the chart of another commercial four-factor tool that is not in the specification. The reviewer judged the distance adequate | Keep, or add a fifth dimension so that the count differs |
 | 10 | Levels, sizes and badges | The titles use "Level", "Award", "Certificate" and "Diploma" with the regulated meanings, on purpose. A badge shows only "OPEN LEADERSHIP" and, for example, "LEVEL 5 DIPLOMA". A person who sees only a badge or a title does not see the word "unregulated" | Add "independent, unregulated" to the badge, or require the sentence next to each title |
 | 11 | The comparisons in the level descriptors | "Comparable level of demand: A level / a foundation degree / a master's degree". The form is the permitted one, but a small unregulated diploma next to "a master's degree" implies much | Keep, or change to "the level at which A levels sit" |
-| 12 | NOTICE | It names the six organisations to state that there is no connection. A reference by name needs a human review. Check the legal name of each. The reviewer thinks that the name given for one leadership body is not the name of the awarding brand | Review and correct |
+| 12 | NOTICE | It names the six organisations to state that there is no connection. A reference by name needs a human review. Check the legal name of each. The register check below shows that one name is out of date | Review and correct |
 | 13 | Retention of assessment records | "At least six years" has no upper limit and no stated reason, and the record holds personal data | Set a period and a reason |
 | 14 | The public specification | `docs/agent-spec.md` describes each part as the "equivalent" of a named offering. It was published by decision | Keep, or edit the public copy |
 
@@ -63,6 +63,38 @@ Smaller points that stay open:
   review by its owner.
 - SOURCES.md needs entries for the published academic work behind the general ideas in the
   units (see the list below), after a person reads each source.
+
+## Register check (after the review)
+
+Source: the public [Ofqual register](https://find-a-qualification.services.ofqual.gov.uk/),
+18 November 2026. Titles, numbers and status only. No specification was opened.
+
+| Our title | Regulated qualifications with the same subject wording |
+|---|---|
+| Level 7 Certificate in Executive Coaching and Mentoring | City & Guilds, 610/7927/3, available. An earlier one, 600/5780/4, is no longer awarded |
+| Level 5 Certificate in Coaching and Mentoring | VQA, 603/2228/7, available. FuturU, 610/8218/1, available. City & Guilds, 600/5791/9, no longer awarded |
+| Level 3 Award in Coaching | RSL Awards, 610/6388/5, available. City & Guilds, 600/5782/8, no longer awarded |
+
+Three or more organisations use the Level 5 and Level 3 wording, so that wording is generic.
+The Level 7 wording is used by one organisation only. That is the title with the most risk.
+
+Coaching practice hours: no page of an awarding organisation that would load states 6, 12 or
+20 hours. Training providers state 6 hours at Level 3 and 20 hours at Level 7 for one
+organisation's qualifications. The 12 hours at Level 5 is not confirmed.
+
+Names for `NOTICE`:
+
+- The recognised awarding organisation is now "City & Guilds Limited". "City and Guilds of
+  London Institute" and "The Institute of Leadership & Management" have the status
+  "Surrendered" on the register. ILM is a trade mark of City & Guilds Limited, and that
+  organisation's site uses "ILM" alone.
+- "Chartered Management Institute" and "Chartered Institute of Personnel and Development" are
+  the names on the register.
+- "John Wiley & Sons, Inc." and "The Insights Group Limited" are the names on the publishers'
+  own sites. The trade mark owner of the second is not confirmed.
+
+`NOTICE` is not changed. A proposed wording: "ILM (a brand of City & Guilds)" in place of "the
+Institute of Leadership & Management (ILM)".
 
 ## Corrected in this review
 
