@@ -85,17 +85,41 @@ Qualification titles follow `OL Level [n] [Award | Certificate | Diploma] in [Su
 The work has five phases (section 9 of the specification). Phases 1 and 2 end with a stop for
 Kris's approval.
 
-1. Research and plan. **Current phase.**
-2. Framework core: level descriptors, credit rules, unit bank skeleton.
+1. Research and plan. Done.
+2. Framework core: level descriptors, credit rules, unit bank skeleton. **Written; waits for
+   Kris's approval.**
 3. Qualifications: management, then leadership, then people practice. Then check unit overlap.
 4. Profiles: item banks, scoring, technical manuals, report templates.
 5. Review: originality check against the hard rules.
 
-Before Phase 2, Kris answers the five questions in section 12 of the specification.
-`CONTRIBUTING.md` and `GOVERNANCE.md` depend on those answers.
-
 Work on one workstream at a time. Commit after each unit of work with a clear message and push
 to `main`.
+
+## Decisions by Kris (18 November 2026)
+
+- Open to anyone: any organisation can deliver, assess and certify, with no approval. This is
+  intended. Do not add an approval or licensing step.
+- Certificates: organisations issue their own. A certificate is valid if the process in
+  `framework/credit-and-assessment-rules.md` was followed and the record is kept. The process
+  ends with a panel review, like the oral examination of a research degree. This model is a
+  first design and can change.
+- Names: write "Open Leadership" in full in documentation. Use the prefix "OL" only in the
+  names of qualifications and profiles, and in unit codes.
+- Badges: `badges/` holds the badge files, made from Quarterdeck's own badge design with an
+  "OL" rosette. A badge never says "accredited". There is a qualification badge for each level
+  and size, and an Open Leadership CPD badge.
+- The owner of the framework in the long term is not decided. Quarterdeck is the steward.
+
+## How the framework fits together
+
+- `framework/unit-bank/README.md` is the map: it lists each unit by domain and the core and
+  optional units of each qualification. A qualification is only a list of units, so a change to
+  a unit changes each qualification that uses it. Keep the map and the "Used in" table of each
+  unit file in agreement.
+- Unit size is fixed for each level (5, 6 and 10 credits at Levels 3, 5 and 7). The credits of a
+  qualification are the number of units multiplied by the unit size.
+- `research/framework-architecture.md` is the Phase 1 proposal. Where it differs from the files
+  in `framework/`, the files in `framework/` are correct.
 
 ## Writing standards for the content
 

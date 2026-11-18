@@ -30,13 +30,17 @@ All qualifications use one bank of units and one credit system.
 
 ## Status
 
-Phase 1 (research and planning) is complete and waits for approval. No qualification or
-profile is published yet.
+Draft. The framework core is written and waits for approval. The units are skeletons, and no
+qualification or profile is ready for use yet.
 
-- [Proposed framework architecture](research/framework-architecture.md)
-- [Source notes](research/source-notes.md)
-- [Name-clash report](research/name-clash-report.md)
-- [Sources](SOURCES.md)
+- [Level descriptors](framework/level-descriptors.md)
+- [Credit and assessment rules](framework/credit-and-assessment-rules.md), with the rules for
+  certificates, badges and CPD
+- [Unit bank](framework/unit-bank/README.md): 61 units and the qualifications they make
+- [Governance](GOVERNANCE.md) and [how to contribute](CONTRIBUTING.md)
+- Research: [proposed architecture](research/framework-architecture.md),
+  [source notes](research/source-notes.md), [name-clash report](research/name-clash-report.md),
+  [sources](SOURCES.md)
 - [Project specification](docs/agent-spec.md)
 
 ## Independent and unregulated

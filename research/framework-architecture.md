@@ -2,7 +2,8 @@
 
 # Proposed framework architecture
 
-Status: **proposal for approval**. Nothing in this document is final. It closes Phase 1.
+Status: **the Phase 1 proposal**. The decisions that followed are in the files in
+[`framework/`](../framework/). Where this document differs from them, they are correct.
 The facts behind it are in [source-notes.md](source-notes.md).
 
 Open Leadership is an independent, unregulated framework. This proposal uses the public rules of
