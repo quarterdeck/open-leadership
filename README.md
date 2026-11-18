@@ -5,6 +5,14 @@
 Open Leadership (OL) is an open framework of qualifications and profiling tools for managers,
 leaders and people professionals. Anyone can read it, use it and adapt it at no cost.
 
+## Mission
+
+Leadership belongs to everybody. We want the knowledge and the tools that make good managers to
+be open to all, free of gatekeepers, proprietary methods and expensive schemes.
+Read [the manifesto](MANIFESTO.md).
+
+## Who maintains it
+
 Quarterdeck, a leadership and management development company in Harrogate, UK, commissions and
 maintains the framework.
 

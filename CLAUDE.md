@@ -8,6 +8,9 @@ Open Leadership (OL) is an open, freely licensed framework of management, leader
 practice qualifications, with two profiling tools (a behaviour profile and a preference profile).
 Quarterdeck commissions it. The readers are HR, L&D and line managers in UK organisations.
 
+`MANIFESTO.md` states the mission: leadership knowledge and tools open to everybody, with no
+gatekeepers. Keep published content consistent with it.
+
 The full specification is `docs/agent-spec.md`. Read it before you write content. This file is a
 summary of the rules that apply to every task.
 
