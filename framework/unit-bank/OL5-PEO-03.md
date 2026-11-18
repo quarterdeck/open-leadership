@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to create conditions in which different people can contribute fully.

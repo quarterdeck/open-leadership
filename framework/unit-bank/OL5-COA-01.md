@@ -13,9 +13,12 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
-This unit enables the learner to coach and mentor people at work with a recognised process and clear agreements.
+This unit enables the learner to coach and mentor people at work with a staged process and clear agreements.
 
 ## Learning outcomes and assessment criteria
 
@@ -25,7 +28,7 @@ The learner must meet each criterion.
 |---|---|
 | 1. Analyse the use of coaching and mentoring at work | 1.1 Analyse the differences between coaching, mentoring, line management and counselling<br>1.2 Assess the benefits and the limits of coaching and mentoring for the person, the team and the organisation<br>1.3 Select coaching, mentoring or a different response to a development need, with reasons |
 | 2. Plan coaching and mentoring relationships with clear agreements | 2.1 Apply an agreement that states the aims, the roles, confidentiality, records and how the relationship ends<br>2.2 Assess the interests of third parties, such as the line manager, and agree what each one is told<br>2.3 Justify the ethical limits of their practice, which include when to refer a person to other help |
-| 3. Apply a recognised process in coaching and mentoring sessions | 3.1 Apply a staged process through a series of sessions with more than one person<br>3.2 Select methods of questioning, listening, challenge and feedback that fit the person and the stage<br>3.3 Apply mentoring methods that share experience and leave the decision with the person<br>3.4 Assess the progress of each person against the aims in the agreement |
+| 3. Apply a staged process in coaching and mentoring sessions | 3.1 Apply the process through a series of sessions with more than one person<br>3.2 Select methods of questioning, listening, challenge and feedback that fit the person and the stage<br>3.3 Apply mentoring methods that share experience and leave the decision with the person<br>3.4 Assess the progress of each person against the aims in the agreement |
 | 4. Evaluate their own coaching and mentoring practice | 4.1 Evaluate their practice with evidence from feedback, records and the results for the people they worked with<br>4.2 Plan their development as a coach and mentor, with reasons |
 
 ## Indicative content

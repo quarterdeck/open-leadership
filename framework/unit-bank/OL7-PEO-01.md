@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to develop other leaders and shape the culture of an organisation.
@@ -41,9 +44,9 @@ or only influenced. The quality of the evidence for culture change programmes. C
 cause of failures of conduct and safety.
 
 **Outcome 2.** Culture that follows from strategy, compared with a list of values on a wall.
-Behaviour stated so that a person can see it and count it. Levers: what leaders pay attention
-to, how they react to bad news, what is measured, who is hired, promoted and dismissed, how
-money and time are allocated, the stories that are told. The behaviour that is tolerated as the
+Behaviour stated so that a person can see it and count it. Levers: who is hired,
+promoted and dismissed, what is measured and rewarded, where money and time go, and how leaders
+act when things go wrong. The behaviour that is tolerated as the
 real standard. The time that culture takes to change, and the pressure for quick results.
 Cynicism after earlier programmes. Disagreement inside the senior team. The interest of the
 board, regulators and the public in culture. Indicators that are hard to game.

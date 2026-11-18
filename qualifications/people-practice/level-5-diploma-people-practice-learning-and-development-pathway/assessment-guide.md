@@ -44,9 +44,9 @@ sufficient.
 | [OL5-STR-01](../../../framework/unit-bank/OL5-STR-01.md) Organisations, culture and context | Core | Work-based assignment, project report, presentation, professional discussion, reflective account |
 | [OL5-PPR-04](../../../framework/unit-bank/OL5-PPR-04.md) Designing learning | Core | Work-based assignment, portfolio of work evidence, project report, professional discussion, presentation, reflective account |
 | [OL5-PPR-05](../../../framework/unit-bank/OL5-PPR-05.md) Facilitating learning | Core | Observation at work, portfolio of work evidence, witness statement, professional discussion, reflective account |
-| [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md) Learning in the flow of work | Core | Work-based assignment, portfolio of work evidence, project report, professional discussion, reflective account |
+| [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md) Learning from work and from colleagues | Core | Work-based assignment, portfolio of work evidence, project report, professional discussion, reflective account |
 | [OL5-PPR-08](../../../framework/unit-bank/OL5-PPR-08.md) People analytics | Optional | Project report, work-based assignment, presentation, professional discussion, reflective account |
-| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Resourcing and talent | Optional | Work-based assignment, portfolio of work evidence, project report, professional discussion, presentation, reflective account |
+| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Recruitment, retention and succession | Optional | Work-based assignment, portfolio of work evidence, project report, professional discussion, presentation, reflective account |
 | [OL5-PEO-03](../../../framework/unit-bank/OL5-PEO-03.md) Leading inclusively | Optional | Work-based assignment, portfolio of work evidence, project report, professional discussion, reflective account |
 | [OL5-PEO-05](../../../framework/unit-bank/OL5-PEO-05.md) Wellbeing and sustainable performance | Optional | Work-based assignment, portfolio of work evidence, project report, professional discussion, reflective account |
 | [OL5-CHG-01](../../../framework/unit-bank/OL5-CHG-01.md) Leading change | Optional | Work-based assignment, project report, portfolio of work evidence, professional discussion, reflective account, witness statement |

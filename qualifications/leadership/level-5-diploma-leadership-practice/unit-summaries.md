@@ -84,14 +84,14 @@ Learning outcomes:
 
 Core unit. 6 credits. 60 hours.
 
-This unit enables the learner to coach and mentor people at work with a recognised process and clear
+This unit enables the learner to coach and mentor people at work with a staged process and clear
 agreements.
 
 Learning outcomes:
 
 1. Analyse the use of coaching and mentoring at work
 2. Plan coaching and mentoring relationships with clear agreements
-3. Apply a recognised process in coaching and mentoring sessions
+3. Apply a staged process in coaching and mentoring sessions
 4. Evaluate their own coaching and mentoring practice
 
 ## Optional units

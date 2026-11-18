@@ -37,13 +37,13 @@ manager, to fit your job.
 | [OL5-STR-01](../../../framework/unit-bank/OL5-STR-01.md) Organisations, culture and context (core) | Analyse how the structure, culture and external context of an organisation affect its performance |
 | [OL5-PPR-04](../../../framework/unit-bank/OL5-PPR-04.md) Designing learning (core) | Analyse a learning need and design a learning programme to meet it |
 | [OL5-PPR-05](../../../framework/unit-bank/OL5-PPR-05.md) Facilitating learning (core) | Facilitate learning for groups, in a room and online |
-| [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md) Learning in the flow of work (core) | Support learning that occurs during work, between colleagues and from experience |
+| [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md) Learning from work and from colleagues (core) | Support learning that occurs during work, between colleagues and from experience |
 | [OL5-PPR-08](../../../framework/unit-bank/OL5-PPR-08.md) People analytics (optional) | Use people data to answer a question that matters to the organisation |
-| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Resourcing and talent (optional) | Plan for the people an organisation needs, and attract, select and keep them |
+| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Recruitment, retention and succession (optional) | Plan for the people an organisation needs, and attract, select and keep them |
 | [OL5-PEO-03](../../../framework/unit-bank/OL5-PEO-03.md) Leading inclusively (optional) | Create conditions in which different people can contribute fully |
 | [OL5-PEO-05](../../../framework/unit-bank/OL5-PEO-05.md) Wellbeing and sustainable performance (optional) | Manage workload and conditions so that people perform well without harm to their health |
 | [OL5-CHG-01](../../../framework/unit-bank/OL5-CHG-01.md) Leading change (optional) | Plan and lead a change, and bring the people affected with them |
-| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (optional) | Coach and mentor people at work with a recognised process and clear agreements |
+| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (optional) | Coach and mentor people at work with a staged process and clear agreements |
 | [OL5-COA-02](../../../framework/unit-bank/OL5-COA-02.md) Building a coaching culture (optional) | Plan how to make coaching and mentoring a normal part of how an organisation works |
 
 If you passed one of these units for another Open Leadership qualification, it counts. You do not

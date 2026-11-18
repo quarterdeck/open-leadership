@@ -92,7 +92,7 @@ Learning outcomes:
 2. Prepare for and hold a difficult conversation
 3. Resolve conflict between team members and review their practice
 
-### [OL3-OPS-02](../../../framework/unit-bank/OL3-OPS-02.md): Solving problems and making decisions
+### [OL3-OPS-02](../../../framework/unit-bank/OL3-OPS-02.md): Finding causes and deciding what to do
 
 Optional unit. 5 credits. 50 hours.
 

@@ -42,7 +42,7 @@ sufficient.
 | [OL5-SLF-02](../../../framework/unit-bank/OL5-SLF-02.md) Ethics and professional judgement | Core | Work-based assignment, reflective account, professional discussion, portfolio of work evidence |
 | [OL5-OPS-03](../../../framework/unit-bank/OL5-OPS-03.md) Decisions from evidence and data | Core | Work-based assignment, project report, portfolio of work evidence, presentation, professional discussion |
 | [OL5-STR-01](../../../framework/unit-bank/OL5-STR-01.md) Organisations, culture and context | Core | Work-based assignment, project report, presentation, professional discussion, reflective account |
-| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Resourcing and talent | Core | Work-based assignment, portfolio of work evidence, project report, professional discussion, presentation, reflective account |
+| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Recruitment, retention and succession | Core | Work-based assignment, portfolio of work evidence, project report, professional discussion, presentation, reflective account |
 | [OL5-PPR-02](../../../framework/unit-bank/OL5-PPR-02.md) Employee relations | Core | Work-based assignment, portfolio of work evidence, professional discussion, witness statement, reflective account, project report |
 | [OL5-PPR-03](../../../framework/unit-bank/OL5-PPR-03.md) Reward and recognition | Core | Work-based assignment, portfolio of work evidence, project report, professional discussion, presentation, reflective account |
 | [OL5-PPR-07](../../../framework/unit-bank/OL5-PPR-07.md) Employment law in practice | Optional | Work-based assignment, portfolio of work evidence, professional discussion, witness statement, reflective account |

@@ -25,6 +25,7 @@ MIN_BAND_HALF_WIDTH = 5.0
 BAND_Z = 1.96
 LOWER_CUT = 40.0
 UPPER_CUT = 60.0
+MIN_TEAM_SIZE = 5
 
 
 def load_item_bank(path):
@@ -32,6 +33,8 @@ def load_item_bank(path):
     with open(path, newline="", encoding="utf-8") as f:
         bank = {}
         for row in csv.DictReader(f):
+                        if row["id"] in bank:
+                raise ValueError(f"Item {row['id']} is in the item bank more than one time")
             if row["keyed"] not in ("+", "-"):
                 raise ValueError(f"Item {row['id']}: keyed must be + or -")
             bank[row["id"]] = (row["scale"], row["keyed"])
@@ -121,12 +124,12 @@ def team_summary(results):
     """Summarise the results of a team: {scale: {n, lowest, median, highest, spread}}.
 
     `results` is a list of the outputs of score_profile. A scale with fewer than
-    three scores gets no summary, so that one person's result cannot be worked out.
+    five scores gets no summary, so that one person's result cannot be worked out.
     """
     summary = {}
     for scale in results[0] if results else []:
         scores = sorted(r[scale]["score"] for r in results if r[scale]["score"] is not None)
-        if len(scores) < 3:
+        if len(scores) < MIN_TEAM_SIZE:
             summary[scale] = {"n": len(scores)}
             continue
         mid = len(scores) // 2

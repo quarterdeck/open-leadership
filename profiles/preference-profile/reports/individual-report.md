@@ -41,8 +41,8 @@ Flexible       |-[===●===]---------|:::::::::|---------|---------|   Planned
 Steady         |---------|---------|:::::::::|-----[===●===]-----|   Alert
 ```
 
-The mark is your result. The band around it shows the uncertainty: a different day could put
-you anywhere in the band. If your band touches the balanced zone, read the "balanced" text.
+The mark is your result. The band around it shows the uncertainty. It is wider when your answers to
+the statements of one scale point in different directions. If your band touches the balanced zone, read the "balanced" text.
 
 ## Company: {company.position}
 
@@ -59,7 +59,7 @@ you are short of until you are tired. Ask yourself at the end of a week which yo
 
 **With others.** You do your best work in a group, and you think by talking. Long periods
 alone drain you. What helps: shared work, people within reach, frequent short contact. The
-cost to watch: you can interrupt people who need quiet, and remote work can be hard for you.
+cost to watch: you can interrupt people who need quiet, and long periods of remote work may cost you effort.
 Ask for: regular time with others. Offer: to check before you interrupt.
 
 ## Focus: {focus.position}

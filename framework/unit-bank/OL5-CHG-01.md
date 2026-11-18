@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to plan and lead a change, and bring the people affected with them.
@@ -25,7 +28,7 @@ The learner must meet each criterion.
 |---|---|
 | 1. Analyse the case for a change and the conditions for it | 1.1 Analyse the causes of the need for a change, with evidence<br>1.2 Assess the forces for and against the change and the capacity of the team to absorb it<br>1.3 Analyse the effect of the change on each group of people that it touches |
 | 2. Plan a change | 2.1 Select an approach to the change that fits its urgency, its size and the people affected, with reasons<br>2.2 Plan the stages, resources, responsibilities and measures of the change<br>2.3 Assess the risks to the change and to normal work while the change happens |
-| 3. Apply methods that bring the people affected with the change | 3.1 Plan communication and involvement for each group of people affected<br>3.2 Apply methods of involvement that give people a real part in the design of the change<br>3.3 Analyse the causes of resistance and select a response to each cause<br>3.4 Apply the organisation's duties to consult when a change affects jobs, terms or working patterns |
+| 3. Apply methods that bring the people affected with the change | 3.1 Plan communication and involvement for each group of people affected<br>3.2 Apply methods of involvement that give people a real part in the design of the change<br>3.3 Analyse the causes of resistance and select a response to each cause<br>3.4 Apply the legal and contractual duties of the organisation to consult when a change affects jobs, terms or working patterns |
 | 4. Evaluate a change and their own leadership of it | 4.1 Evaluate the results of the change against its measures, which include whether the new way of working has lasted<br>4.2 Evaluate their own leadership of the change and plan changes to their practice |
 
 ## Indicative content
@@ -40,8 +43,8 @@ customers, suppliers, union representatives. Who gains and who loses.
 
 **Outcome 2.** Approaches: directed from above or designed with the people affected, one step
 or stages, a pilot first or all sites at once. The conditions that suit each. The common
-elements of staged models of change: a clear reason, support from people with authority, a
-picture of the result, early visible gains, new habits made permanent. The limits of such
+elements of staged models of change: a clear reason, a picture of the
+result, support from people with authority, new habits made permanent. The limits of such
 models: real change does not move in a straight line. A plan with owners, dates and measures.
 Risks: loss of people, a fall in service, cost, delay. Capacity to do normal work at the same
 time.

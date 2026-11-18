@@ -167,7 +167,11 @@ No evidence connects the scores with job performance, and the profile makes no s
 
 - All evidence is still to be collected. Treat each result as provisional.
 - A self-report shows how a person sees themselves. People can answer as they wish to be seen.
-- The provisional score is not compared with other people.
+- The provisional score is not compared with other people. People agree with some kinds of
+  statement more easily than with others, so many people will probably score "higher" on
+  Warmth. Norms will correct this.
+- The band does not show how much a result changes from day to day. Only the second response
+  in the pilot can show that.
 - Behaviour changes with the situation. The profile describes a tendency.
 
 ## 12. Sources

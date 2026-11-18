@@ -9,6 +9,9 @@ Every Open Leadership qualification is a set of units from this bank. The rules 
 learning outcomes, assessment criteria, indicative content, a workplace scenario and evidence
 requirements. The qualifications are in [qualifications/](../../qualifications/README.md).
 
+Open Leadership is an independent, unregulated framework. The levels and credits are its own,
+and no unit is on the Regulated Qualifications Framework.
+
 The bank has 61 units: 19 at Level 3, 28 at Level 5 and 14 at Level 7.
 
 ## Units by domain
@@ -55,7 +58,7 @@ The bank has 61 units: 19 at Level 3, 28 at Level 5 and 14 at Level 7.
 | Code | Title | Level | Credits |
 |---|---|---|---|
 | [OL3-OPS-01](OL3-OPS-01.md) | Planning and organising work | 3 | 5 |
-| [OL3-OPS-02](OL3-OPS-02.md) | Solving problems and making decisions | 3 | 5 |
+| [OL3-OPS-02](OL3-OPS-02.md) | Finding causes and deciding what to do | 3 | 5 |
 | [OL3-OPS-03](OL3-OPS-03.md) | Working with data and digital tools | 3 | 5 |
 | [OL3-OPS-04](OL3-OPS-04.md) | Delivering a small project | 3 | 5 |
 | [OL5-OPS-01](OL5-OPS-01.md) | Operational planning and delivery | 5 | 6 |
@@ -101,12 +104,12 @@ The bank has 61 units: 19 at Level 3, 28 at Level 5 and 14 at Level 7.
 | [OL3-PPR-02](OL3-PPR-02.md) | Recruitment and onboarding in practice | 3 | 5 |
 | [OL3-PPR-03](OL3-PPR-03.md) | Supporting learning at work | 3 | 5 |
 | [OL3-PPR-04](OL3-PPR-04.md) | People records, data and the law | 3 | 5 |
-| [OL5-PPR-01](OL5-PPR-01.md) | Resourcing and talent | 5 | 6 |
+| [OL5-PPR-01](OL5-PPR-01.md) | Recruitment, retention and succession | 5 | 6 |
 | [OL5-PPR-02](OL5-PPR-02.md) | Employee relations | 5 | 6 |
 | [OL5-PPR-03](OL5-PPR-03.md) | Reward and recognition | 5 | 6 |
 | [OL5-PPR-04](OL5-PPR-04.md) | Designing learning | 5 | 6 |
 | [OL5-PPR-05](OL5-PPR-05.md) | Facilitating learning | 5 | 6 |
-| [OL5-PPR-06](OL5-PPR-06.md) | Learning in the flow of work | 5 | 6 |
+| [OL5-PPR-06](OL5-PPR-06.md) | Learning from work and from colleagues | 5 | 6 |
 | [OL5-PPR-07](OL5-PPR-07.md) | Employment law in practice | 5 | 6 |
 | [OL5-PPR-08](OL5-PPR-08.md) | People analytics | 5 | 6 |
 | [OL7-PPR-01](OL7-PPR-01.md) | People strategy and workforce planning | 7 | 10 |

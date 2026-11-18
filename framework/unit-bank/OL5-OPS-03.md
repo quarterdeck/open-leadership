@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to collect, analyse and interpret evidence to make and justify a management decision.
@@ -32,8 +35,8 @@ The learner must meet each criterion.
 
 This content is a guide for the centre. It is not a list of things to assess.
 
-**Outcome 1.** A decision question that is specific enough to answer. Four types of source: the
-organisation's own data, the views of the people affected, the experience of practitioners, and
+**Outcome 1.** A decision question that is specific enough to answer. Types of source, for example the
+organisation's own data, the views of the people affected, the experience of practitioners and
 published research. Evidence that already exists compared with evidence to collect. Samples,
 and who is missing from them. Tests of quality: who collected it, how, when, for what purpose,
 and what they had to gain. The cost and time of more evidence against the cost of a wrong
@@ -88,8 +91,7 @@ Evidence requirements:
 
 - The evidence comes from one real decision in the learner's area of responsibility, which the
   learner made or recommended.
-- It uses at least three of the four types of source in the indicative content for outcome 1,
-  and it includes numerical data that the learner analysed.
+- It uses more than one type of source, and it includes numerical data that the learner analysed.
 - It includes the report or presentation that the learner gave to the decision makers.
 - Data about people is made anonymous, and the learner states how they met the organisation's
   data protection rules.

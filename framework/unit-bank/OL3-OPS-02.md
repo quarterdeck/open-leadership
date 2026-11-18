@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL3-OPS-02: Solving problems and making decisions
+# OL3-OPS-02: Finding causes and deciding what to do
 
 | | |
 |---|---|
@@ -12,6 +12,9 @@
 | Domain | Managing operations |
 | Version | 0.2.0 |
 | Status | Draft |
+
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
 
 ## Purpose
 

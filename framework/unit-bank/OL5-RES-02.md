@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to identify, assess and control risks in their area of responsibility.
@@ -32,7 +35,7 @@ The learner must meet each criterion.
 
 This content is a guide for the centre. It is not a list of things to assess.
 
-**Outcome 1.** Risk as the effect of uncertainty on objectives. Types: safety, operational,
+**Outcome 1.** Risk as an uncertain event or condition that can harm or help an objective. Types: safety, operational,
 financial, legal, information and cyber, people, supplier, environmental, reputation. Risks
 that bring a possible gain as well as a possible loss. The level of risk that the organisation
 accepts, and how a manager finds it out. Health and safety law, UK data protection law and

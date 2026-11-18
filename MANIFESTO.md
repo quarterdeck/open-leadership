@@ -31,7 +31,8 @@ certified-practitioner schemes. We think it should be open.
   in this repository, free to use, under the MIT licence.
 - **We build on open foundations.** Public standards, published research and public-domain
   resources. We list every source.
-- **We write our own material.** Every word is original. We take nothing from proprietary
+- **We write our own material.** We write the content ourselves, and we use public-domain and
+  openly licensed material that we name in our sources. We take nothing from proprietary
   programmes or tools.
 - **We show our working.** We publish our evidence and our limits, including what we have yet to
   prove.

@@ -49,7 +49,7 @@ This plan is an example. Change the order to fit the learner's work.
 | 2 | OL5-SLF-02 Ethics and professional judgement | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 3 | OL5-OPS-03 Decisions from evidence and data | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 4 | OL5-STR-01 Organisations, culture and context | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
-| 5 | OL5-PPR-01 Resourcing and talent | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
+| 5 | OL5-PPR-01 Recruitment, retention and succession | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 6 | OL5-PPR-02 Employee relations | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 7 | OL5-PPR-03 Reward and recognition | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 8 | Optional unit (for example OL5-PPR-07 Employment law in practice) | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |

@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL5-PPR-06: Learning in the flow of work
+# OL5-PPR-06: Learning from work and from colleagues
 
 | | |
 |---|---|
@@ -12,6 +12,9 @@
 | Domain | People practice |
 | Version | 0.2.0 |
 | Status | Draft |
+
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
 
 ## Purpose
 

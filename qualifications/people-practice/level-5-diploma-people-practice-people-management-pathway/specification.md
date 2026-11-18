@@ -66,7 +66,7 @@ time, with a guide of 21 hours of guided learning).
 | [OL5-SLF-02](../../../framework/unit-bank/OL5-SLF-02.md) | Ethics and professional judgement | 6 |
 | [OL5-OPS-03](../../../framework/unit-bank/OL5-OPS-03.md) | Decisions from evidence and data | 6 |
 | [OL5-STR-01](../../../framework/unit-bank/OL5-STR-01.md) | Organisations, culture and context | 6 |
-| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) | Resourcing and talent | 6 |
+| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) | Recruitment, retention and succession | 6 |
 | [OL5-PPR-02](../../../framework/unit-bank/OL5-PPR-02.md) | Employee relations | 6 |
 | [OL5-PPR-03](../../../framework/unit-bank/OL5-PPR-03.md) | Reward and recognition | 6 |
 

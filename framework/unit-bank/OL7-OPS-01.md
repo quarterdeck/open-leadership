@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to evaluate how an organisation creates value and redesign how it operates.
@@ -24,7 +27,7 @@ The learner must meet each criterion.
 | Learning outcome | Assessment criteria |
 |---|---|
 | 1. Critically evaluate how an organisation creates value | 1.1 Critically evaluate how the activities of the organisation create value for its customers, owners and other stakeholders, and where value is lost<br>1.2 Appraise the fit between the strategy and the present operating model<br>1.3 Synthesise internal and external evidence to compare the performance of the organisation with that of comparable organisations |
-| 2. Design the way in which an organisation measures and governs its performance | 2.1 Design a set of measures that balances financial results, customers, operations, people and long-term capability<br>2.2 Critically evaluate the behaviour that the present measures and targets cause<br>2.3 Formulate the arrangements by which senior leaders review performance and act on it |
+| 2. Design the way in which an organisation measures and governs its performance | 2.1 Design a set of financial and non-financial measures that shows present results and the capability to produce future results<br>2.2 Critically evaluate the behaviour that the present measures and targets cause<br>2.3 Formulate the arrangements by which senior leaders review performance and act on it |
 | 3. Design a change to an operating model | 3.1 Formulate options for the operating model, with the assumptions behind each one<br>3.2 Appraise the options for their effect on cost, service, risk, people, society and the environment<br>3.3 Justify the selected design to the board or the equivalent body<br>3.4 Design the transition, which includes how service continues while the model changes |
 | 4. Lead a change to an operating model and appraise its results | 4.1 Lead senior colleagues to agree and start the change<br>4.2 Appraise the early results against the case for the change, and adjust the design<br>4.3 Critically evaluate their own judgement and conduct as the leader of the change |
 

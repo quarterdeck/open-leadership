@@ -51,7 +51,7 @@ This plan is an example. Change the order to fit the learner's work.
 | 4 | OL5-STR-01 Organisations, culture and context | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 5 | OL5-PPR-04 Designing learning | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 6 | OL5-PPR-05 Facilitating learning | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
-| 7 | OL5-PPR-06 Learning in the flow of work | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
+| 7 | OL5-PPR-06 Learning from work and from colleagues | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 8 | Optional unit (for example OL5-PPR-08 People analytics) | 21 hours | Workshops or coaching sessions, practice at work between them, then assessment |
 | 9 | Panel review | 45 minutes for each learner | See the assessment guide |
 

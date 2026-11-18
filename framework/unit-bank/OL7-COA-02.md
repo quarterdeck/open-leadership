@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to use supervision and an ethical framework to maintain the quality of coaching practice.
@@ -26,7 +29,7 @@ The learner must meet each criterion.
 | 1. Critically evaluate the purposes and forms of coaching supervision | 1.1 Critically evaluate the evidence that supervision improves the quality and safety of coaching<br>1.2 Appraise one-to-one, group and peer supervision, and internal and external supervisors<br>1.3 Justify the supervision arrangement for their own practice |
 | 2. Formulate an ethical framework for coaching practice | 2.1 Synthesise principles from published codes of ethics, the law and organisational policy into a framework for their own practice<br>2.2 Appraise ethical dilemmas in which duties to the person, the sponsor and other people conflict<br>2.3 Justify a decision on an ethical dilemma from practice, with each step of the reasoning shown<br>2.4 Appraise how the framework deals with differences of power, culture and identity between the coach and the person |
 | 3. Design arrangements that maintain the quality of coaching in an organisation | 3.1 Design supervision and quality arrangements for a group of coaches<br>3.2 Formulate the standards that the coaches must meet and the action to take when a coach does not meet them<br>3.3 Appraise how well the arrangements can detect unsafe or poor practice |
-| 4. Critically evaluate their own use of supervision and ethics | 4.1 Synthesise what they learned in supervision into changes in their practice<br>4.2 Critically evaluate their own decisions in ethically difficult cases<br>4.3 Formulate a plan to maintain their fitness to practise |
+| 4. Critically evaluate their own use of supervision and ethics | 4.1 Synthesise what they learned in supervision into changes in their practice<br>4.2 Critically evaluate their own decisions in ethically difficult cases<br>4.3 Formulate a plan to maintain their ability to practise safely |
 
 ## Indicative content
 

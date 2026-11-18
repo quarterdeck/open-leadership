@@ -15,7 +15,7 @@ Use it to:
 
 Open Leadership wrote this framework. The practice areas were chosen with reference to public
 sources under the Open Government Licence: the HR Career Framework of the UK Civil Service and
-the apprenticeship standards for HR and L&D. See [SOURCES.md](../../SOURCES.md). It is an
+the Level 5 apprenticeship standard for HR. See [SOURCES.md](../../SOURCES.md). It is an
 independent framework, and no professional body endorses it.
 
 ## The three depths

@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to analyse a learning need and design a learning programme to meet it.
@@ -50,7 +53,7 @@ materials: plain language, captions, readable documents, alternatives to one for
 **Outcome 3.** Make, buy or adapt. Costs: design time, delivery, materials, licences, time away
 from work. Group sizes and schedules for shift and remote workers. The manager's part: a
 briefing before, the chance to practise after, a follow-up conversation. Questions for an
-evaluation: did people complete it, can they do the task, do they do it at work, did the
+evaluation: what do people do differently at work, and did the
 problem get smaller. A baseline before delivery. A design document or a short business case for the
 sponsor. The option to do nothing.
 

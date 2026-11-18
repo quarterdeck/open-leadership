@@ -37,7 +37,7 @@ manager, to fit your job.
 | [OL3-PEO-02](../../../framework/unit-bank/OL3-PEO-02.md) Managing individual performance (optional) | Set clear objectives, give feedback and deal with good and poor performance |
 | [OL3-PEO-03](../../../framework/unit-bank/OL3-PEO-03.md) Communicating at work (optional) | Communicate clearly with a team, with managers and with customers, in speech and in writing |
 | [OL3-PEO-04](../../../framework/unit-bank/OL3-PEO-04.md) Handling conflict and difficult conversations (optional) | Prepare for and hold a difficult conversation, and resolve conflict in a team |
-| [OL3-OPS-02](../../../framework/unit-bank/OL3-OPS-02.md) Solving problems and making decisions (optional) | Find the cause of a problem at work, compare options and make a decision |
+| [OL3-OPS-02](../../../framework/unit-bank/OL3-OPS-02.md) Finding causes and deciding what to do (optional) | Find the cause of a problem at work, compare options and make a decision |
 | [OL3-OPS-03](../../../framework/unit-bank/OL3-OPS-03.md) Working with data and digital tools (optional) | Use data and common digital tools to monitor work and report results |
 | [OL3-OPS-04](../../../framework/unit-bank/OL3-OPS-04.md) Delivering a small project (optional) | Plan and deliver a small project on time |
 | [OL3-RES-01](../../../framework/unit-bank/OL3-RES-01.md) Working with budgets and resources (optional) | Work within a budget and use time, equipment and materials well |

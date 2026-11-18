@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to evaluate their own strengths, limits and effect on others, and plan their growth as a leader.
@@ -33,8 +36,7 @@ This content is a guide for the centre. It is not a list of things to assess.
 
 **Outcome 1.** Sources of evidence about the self: results, feedback from several directions,
 questionnaires, a reflective journal, the pattern of past decisions. Strengths that become
-limits when they are used too much. Values, and where they come from. Preferences in how a
-person takes in information, decides and deals with people. What a questionnaire can show and
+limits when they are used too much. Values, and where they come from. Preferences in how a person works. What a questionnaire can show and
 what it cannot: it reports the person's own view, the result can change with mood and context,
 and a label can become an excuse. Blind spots, and why other people see them first.
 

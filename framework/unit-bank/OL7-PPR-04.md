@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to set the direction for learning and for the development of leaders across an organisation.
@@ -57,8 +60,8 @@ plans and talent reviews. Access: who is nominated, by whom, and which groups ar
 Openness about who is on a list.
 
 **Outcome 4.** Senior leaders as teachers, sponsors and examples. The case to a board for
-long-term investment during pressure on cost. Evaluation: a chain of evidence from learning to
-behaviour to results, comparison groups, time lags, the limits of a single return-on-investment
+long-term investment during pressure on cost. Evaluation: evidence that links learning to changes at work
+and to results, comparison groups, time lags, the limits of a single return-on-investment
 figure. Measures of leadership strength: internal fill rate for senior roles, readiness of
 successors, retention of people with potential, engagement of teams. What the learner's own
 development shows to others.

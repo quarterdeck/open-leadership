@@ -7,8 +7,10 @@ Version 0.1.0 (draft). Text in `{braces}` is replaced for each team.
 Rules:
 
 - Each person agreed that their result is part of this report.
-- The report shows no summary for a scale with fewer than three scores.
+- The report shows no summary for a scale with fewer than five scores.
 - A name appears only if that person agreed to it. The default is no names.
+- The chart shows one mark for each person. Tell each person this before they agree, because
+  colleagues can sometimes work out whose mark is whose.
 - Do not label the team as a type. Do not rank people.
 
 The function `team_summary` in the scoring code gives the numbers.

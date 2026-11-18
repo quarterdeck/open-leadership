@@ -5,7 +5,8 @@
 Version 0.1.0 (draft, before the pilot).
 
 A facilitator is a person who gives the profile to others and helps them to use the result: a
-manager, a coach, a trainer or a people practitioner. You do not need a licence or a
+coach, a trainer, a people practitioner or a manager. The facilitator is never the line manager
+of a person who takes the profile, because the person who scores the answers sees them. You do not need a licence or a
 certificate. You do need to read this guide and the
 [technical manual](technical-manual.md), and to follow the rules on
 [data protection](../data-protection.md).
@@ -15,7 +16,8 @@ certificate. You do need to read this guide and the
 1. The profile is for development. It is never used for a decision about a person.
 2. It is voluntary. A person who does not take part has no disadvantage.
 3. It is a draft that is not yet tested. The result is a suggestion.
-4. The person sees the result first and decides who else sees it.
+4. The person decides who sees the result. The facilitator who scores the answers sees it, and
+   nobody else does unless the person agrees.
 5. No side is better than the other, and a preference is not a limit.
 
 If your organisation cannot keep these five promises, do not use the profile.
@@ -44,8 +46,7 @@ If your organisation cannot keep these five promises, do not use the profile.
 | 10 minutes | The "put it to use" section: what to ask for, and what to offer |
 | 5 minutes | One request that the person will make, to whom, and when |
 
-Most results are in or near the balanced zone. That is a real result. Do not push a balanced
-person to choose a side.
+A balanced result is a real result. Do not push a balanced person to choose a side.
 
 If the person disagrees with a result, accept it, and ask what would be more accurate.
 
@@ -76,10 +77,9 @@ A person can take part in the session without sharing a result.
 
 ## Used with the OL Behaviour Profile
 
-The behaviour profile describes what others see. This profile describes what a person likes
-and needs. Where the two differ, ask about it. A person who prefers to work alone and has a
-higher Voice score has learned to speak up, or the job demands it. The effort behind that
-difference is worth a conversation.
+The behaviour profile describes how a person says that they act. This profile describes what a person likes
+and needs. Where the two differ, ask about it. For example, a person can prefer to work alone and have a higher
+Voice score. Ask what is behind the difference.
 
 Some scales of the two profiles are expected to go together (see section 9 of the technical
 manual). Do not present an agreement between the two profiles as proof that either is

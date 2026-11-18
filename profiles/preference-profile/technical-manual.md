@@ -68,15 +68,26 @@ Each is close to a part of one of the five factors of personality:
 | Planning | The cautious, deliberate part of conscientiousness |
 | Pressure | The anxiety and vulnerability parts of emotional stability, reversed |
 
-Research on preference questionnaires with two-sided scales shows that most people are near
-the middle of each scale, and that a division of people into two groups for each scale loses
-information and is not stable. For that reason this profile reports a position and a band,
-with a balanced zone, and never a category.
+The layout as five two-sided scales follows a public idea: the preference pairs that C. G. Jung
+described in 1921 (the first four scales), with a fifth scale from the five-factor model. Many
+commercial tools use the same public idea and sort people into categories. Published research
+on personality scales finds that scores form one continuous spread, with no natural division
+into two groups. For that reason this profile reports a position and a band, with a balanced
+zone, and never a category. It uses no letters, colours or types.
 
 These statements are hypotheses about this profile until the pilot tests them. A person must
 read the published papers in full before a later version of this manual cites them.
 
-### Two cautions about the scales
+### Cautions about the scales
+
+- **One side of three scales is measured only by the absence of the other.** The items of
+  Focus measure imagination and interest in ideas, so "practical" means a lower score on
+  those. The items of Planning measure caution and impulse, so the scale is about how much a
+  person thinks before they act, more than about plans. The report text for these sides goes
+  further than the items. The pilot will show if these scales need new items or new names.
+- **A provisional score is not a comparison with other people.** People agree with some kinds
+  of statement more easily than with others. Many people will probably score on the "by
+  people" side of Decisions and the "steady" side of Pressure. Norms will correct this.
 
 - **Decisions.** The items measure attention to people directly. The "by criteria" side is
   measured only as the absence of that attention. The pilot will show if this side needs items

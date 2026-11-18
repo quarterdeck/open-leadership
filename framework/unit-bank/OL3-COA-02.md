@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to complete and review a set of coaching conversations at work.
@@ -24,7 +27,7 @@ The learner must meet each criterion.
 | Learning outcome | Assessment criteria |
 |---|---|
 | 1. Plan a set of coaching conversations with a person at work | 1.1 Explain to the person what the coaching is for, how the conversations work and what stays private<br>1.2 Identify with the person the aim of the coaching and the signs that will show progress<br>1.3 Plan the number, length, time and place of the conversations |
-| 2. Carry out a set of coaching conversations | 2.1 Carry out each conversation in stages: the aim, the present situation, the options and the agreed action<br>2.2 Use the actions from one conversation as the start of the next<br>2.3 Use a short record of each conversation that keeps private information safe<br>2.4 Identify a matter that is outside the limits of coaching and refer it to the correct person or service |
+| 2. Carry out a set of coaching conversations | 2.1 Carry out each conversation in stages that they can explain, from the aim of the person to an action that the person chooses<br>2.2 Use the actions from one conversation as the start of the next<br>2.3 Use a short record of each conversation that keeps private information safe<br>2.4 Identify a matter that is outside the limits of coaching and refer it to the correct person or service |
 | 3. Review the coaching and their own practice | 3.1 Review with the person the progress made against the aim<br>3.2 Use feedback from the person to identify the strong and weak points of their coaching<br>3.3 Plan their own development as a coach |
 
 ## Indicative content

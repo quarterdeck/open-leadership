@@ -35,7 +35,7 @@ clients.
 
 A learner who completes the core units can:
 
-- coach and mentor people at work with a recognised process and clear agreements
+- coach and mentor people at work with a staged process and clear agreements
 - plan how to make coaching and mentoring a normal part of how an organisation works
 - review their own coaching and mentoring practice and improve it
 

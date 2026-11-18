@@ -81,7 +81,7 @@ Learning outcomes:
 3. Assess learning during a session and adapt the facilitation
 4. Evaluate their own practice as a facilitator
 
-### [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md): Learning in the flow of work
+### [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md): Learning from work and from colleagues
 
 Core unit. 6 credits. 60 hours.
 
@@ -111,7 +111,7 @@ Learning outcomes:
 3. Analyse people data
 4. Present findings that lead to action, and evaluate their own practice
 
-### [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md): Resourcing and talent
+### [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md): Recruitment, retention and succession
 
 Optional unit. 6 credits. 60 hours.
 
@@ -169,14 +169,14 @@ Learning outcomes:
 
 Optional unit. 6 credits. 60 hours.
 
-This unit enables the learner to coach and mentor people at work with a recognised process and clear
+This unit enables the learner to coach and mentor people at work with a staged process and clear
 agreements.
 
 Learning outcomes:
 
 1. Analyse the use of coaching and mentoring at work
 2. Plan coaching and mentoring relationships with clear agreements
-3. Apply a recognised process in coaching and mentoring sessions
+3. Apply a staged process in coaching and mentoring sessions
 4. Evaluate their own coaching and mentoring practice
 
 ### [OL5-COA-02](../../../framework/unit-bank/OL5-COA-02.md): Building a coaching culture

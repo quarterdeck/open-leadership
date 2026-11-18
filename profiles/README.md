@@ -28,7 +28,7 @@ Open Leadership has two questionnaires that help people to talk about how they w
 
 ## How the two profiles differ
 
-The behaviour profile describes what other people see a person do. The preference profile
+The behaviour profile describes how a person says that they act. The preference profile
 describes what a person likes and needs. The two can differ: a person can prefer to work alone
 and still speak up readily in a meeting.
 
@@ -57,4 +57,7 @@ python3 -m unittest discover -s profiles/pilot -p "test_*.py"
 ## Independent
 
 Open Leadership wrote these profiles. They are independent of all commercial profiling tools,
-and they use no items, scoring keys, models, names, graphics or report text from any of them.
+and they use no items, scoring keys, names, graphics or report text from any of them. The ideas
+behind them are public: the five-factor model of personality, research on behaviour between
+people, and, for the two-sided scales of the preference profile, the preference pairs that
+C. G. Jung described in 1921. Many commercial tools draw on the same public ideas.

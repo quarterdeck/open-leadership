@@ -20,8 +20,8 @@ Each descriptor has three strands:
 | Skills | What can the learner do? |
 | Scope | What is the learner responsible for at work? |
 
-The knowledge and skills strands are our own wording, written with reference to the Ofqual level
-descriptors. The scope strand is an addition by Open Leadership.
+The knowledge and skills strands are adapted from the Ofqual level descriptors, in our own
+wording. The scope strand is an addition by Open Leadership.
 
 ## Level 3
 
@@ -107,6 +107,8 @@ Comparable level of demand: a master's degree.
 
 ## Attribution
 
-The level numbers and the two strands of knowledge and skills follow the Ofqual level
-descriptors in the Ofqual Handbook. Contains public sector information licensed under the
+The level numbers and the two strands of knowledge and skills are adapted from the level
+descriptors in the
+[Ofqual Handbook](https://www.gov.uk/guidance/ofqual-handbook/section-e-design-and-development-of-qualifications).
+Crown copyright. Keep this attribution if you reuse the descriptors. Contains public sector information licensed under the
 [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).

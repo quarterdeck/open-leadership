@@ -32,7 +32,8 @@ representative of UK working adults, and the technical manuals will say so.
    from the answers and is deleted after the second response.
 5. Gets their own provisional result.
 
-No name, employer name or email address is stored with the answers.
+No name, employer name or email address is stored with the answers. Until the contact for the
+second response is deleted, the data is personal data and is protected as such.
 
 ## Data files
 
@@ -70,7 +71,8 @@ python3 profiles/pilot/analysis.py profiles/behaviour-profile/item-bank.csv pilo
 
 ## Decisions after the pilot
 
-- Remove or replace an item that does not fit. Keep 10 items or more in each scale.
+- Remove or replace an item that does not fit. Keep 10 items or more in each scale. A scale needs answers to five sixths of its items
+  for a score.
 - Remove or merge a scale that is not reliable or that repeats another.
 - Publish the results in the technical manuals, which includes the results that are not good.
 - Publish the anonymous data set in this repository if no person can be identified from it.

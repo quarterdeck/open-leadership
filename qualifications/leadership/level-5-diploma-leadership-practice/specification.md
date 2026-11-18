@@ -40,7 +40,7 @@ A learner who completes the core units can:
 - manage the performance of a team and develop the capability of its members
 - analyse stakeholders, and influence and communicate with them to reach an objective
 - plan and lead a change, and bring the people affected with them
-- coach and mentor people at work with a recognised process and clear agreements
+- coach and mentor people at work with a staged process and clear agreements
 
 ## Entry guidance
 

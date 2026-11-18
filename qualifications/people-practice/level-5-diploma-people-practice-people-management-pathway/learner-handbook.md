@@ -34,7 +34,7 @@ manager, to fit your job.
 | [OL5-SLF-02](../../../framework/unit-bank/OL5-SLF-02.md) Ethics and professional judgement (core) | Apply ethical principles to decisions at work and act with professional integrity |
 | [OL5-OPS-03](../../../framework/unit-bank/OL5-OPS-03.md) Decisions from evidence and data (core) | Collect, analyse and interpret evidence to make and justify a management decision |
 | [OL5-STR-01](../../../framework/unit-bank/OL5-STR-01.md) Organisations, culture and context (core) | Analyse how the structure, culture and external context of an organisation affect its performance |
-| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Resourcing and talent (core) | Plan for the people an organisation needs, and attract, select and keep them |
+| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) Recruitment, retention and succession (core) | Plan for the people an organisation needs, and attract, select and keep them |
 | [OL5-PPR-02](../../../framework/unit-bank/OL5-PPR-02.md) Employee relations (core) | Manage the relationship between an organisation and its employees, which includes discipline, grievance and consultation |
 | [OL5-PPR-03](../../../framework/unit-bank/OL5-PPR-03.md) Reward and recognition (core) | Evaluate and apply approaches to pay, benefits and recognition |
 | [OL5-PPR-07](../../../framework/unit-bank/OL5-PPR-07.md) Employment law in practice (optional) | Apply employment law to common situations and know when to get specialist advice |
@@ -43,7 +43,7 @@ manager, to fit your job.
 | [OL5-PEO-03](../../../framework/unit-bank/OL5-PEO-03.md) Leading inclusively (optional) | Create conditions in which different people can contribute fully |
 | [OL5-PEO-05](../../../framework/unit-bank/OL5-PEO-05.md) Wellbeing and sustainable performance (optional) | Manage workload and conditions so that people perform well without harm to their health |
 | [OL5-CHG-01](../../../framework/unit-bank/OL5-CHG-01.md) Leading change (optional) | Plan and lead a change, and bring the people affected with them |
-| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (optional) | Coach and mentor people at work with a recognised process and clear agreements |
+| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (optional) | Coach and mentor people at work with a staged process and clear agreements |
 
 If you passed one of these units for another Open Leadership qualification, it counts. You do not
 take it again.

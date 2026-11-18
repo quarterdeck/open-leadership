@@ -37,7 +37,7 @@ manager, to fit your job.
 | [OL5-PEO-03](../../../framework/unit-bank/OL5-PEO-03.md) Leading inclusively (optional) | Create conditions in which different people can contribute fully |
 | [OL5-PEO-05](../../../framework/unit-bank/OL5-PEO-05.md) Wellbeing and sustainable performance (optional) | Manage workload and conditions so that people perform well without harm to their health |
 | [OL5-CHG-01](../../../framework/unit-bank/OL5-CHG-01.md) Leading change (optional) | Plan and lead a change, and bring the people affected with them |
-| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (optional) | Coach and mentor people at work with a recognised process and clear agreements |
+| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (optional) | Coach and mentor people at work with a staged process and clear agreements |
 
 If you passed one of these units for another Open Leadership qualification, it counts. You do not
 take it again.

@@ -13,6 +13,9 @@
 | Version | 0.2.0 |
 | Status | Draft |
 
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
+
 ## Purpose
 
 This unit enables the learner to design structures and lead development work that improve how an organisation performs.
@@ -32,8 +35,8 @@ The learner must meet each criterion.
 
 This content is a guide for the centre. It is not a list of things to assess.
 
-**Outcome 1.** An organisation as a system: strategy, structure, processes, people, rewards
-and culture affect each other. Signs of poor fit: slow decisions, duplicated work, gaps between
+**Outcome 1.** An organisation as a system: its aims, the division of work and authority,
+the flow of work, the people and what is rewarded affect each other. Signs of poor fit: slow decisions, duplicated work, gaps between
 units, overloaded roles, conflict at boundaries. The informal organisation and why a chart does
 not show it. Methods of diagnosis: process and decision mapping, activity and cost data,
 interviews, group sessions, surveys, observation. The diagnosis as a shared product. The risk

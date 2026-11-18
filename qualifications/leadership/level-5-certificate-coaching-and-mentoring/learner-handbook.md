@@ -30,7 +30,7 @@ You complete 3 core units.
 
 | Unit | What you learn to do |
 |---|---|
-| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (core) | Coach and mentor people at work with a recognised process and clear agreements |
+| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (core) | Coach and mentor people at work with a staged process and clear agreements |
 | [OL5-COA-02](../../../framework/unit-bank/OL5-COA-02.md) Building a coaching culture (core) | Plan how to make coaching and mentoring a normal part of how an organisation works |
 | [OL5-COA-03](../../../framework/unit-bank/OL5-COA-03.md) Reflective practice for coaches and mentors (core) | Review your own coaching and mentoring practice and improve it |
 

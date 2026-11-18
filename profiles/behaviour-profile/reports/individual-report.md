@@ -38,8 +38,8 @@ Method         |--[====●====]------|---------|---------|---------|     {method
 Exploration    |---------|---------|-[====●====]-------|---------|     {exploration.score}
 ```
 
-The mark is your score. The band around it shows the uncertainty: a different day could put
-you anywhere in the band. If your band crosses the middle zone, read the "middle" text.
+The mark is your score. The band around it shows the uncertainty. It is wider when your answers to
+the statements of one scale point in different directions. If your band crosses the middle zone, read the "middle" text.
 
 A score of 50 means that your answers balance. It does not compare you with other people.
 

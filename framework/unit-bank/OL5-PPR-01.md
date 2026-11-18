@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
 
-# OL5-PPR-01: Resourcing and talent
+# OL5-PPR-01: Recruitment, retention and succession
 
 | | |
 |---|---|
@@ -12,6 +12,9 @@
 | Domain | People practice |
 | Version | 0.2.0 |
 | Status | Draft |
+
+Open Leadership is an independent, unregulated framework. The level and the credits of this unit are
+its own. The unit is not on the Regulated Qualifications Framework.
 
 ## Purpose
 
@@ -39,7 +42,7 @@ Options and their trade-offs: permanent and temporary employees, apprentices, ag
 contractors, internal moves, redesign of jobs, automation. The limits of a forecast, and the use
 of scenarios.
 
-**Outcome 2.** Tight and loose labour markets. The offer to candidates: pay, flexibility,
+**Outcome 2.** Labour markets with few candidates and with many. The offer to candidates: pay, flexibility,
 development, purpose, reputation, and whether the offer matches the truth of the job.
 Attraction methods: internal advertisement, referral, job boards, social media, agencies,
 schools and colleges, direct approach. Evidence on selection methods: structured interviews,

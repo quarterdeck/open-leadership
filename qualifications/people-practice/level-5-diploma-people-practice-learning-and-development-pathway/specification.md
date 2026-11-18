@@ -68,7 +68,7 @@ time, with a guide of 21 hours of guided learning).
 | [OL5-STR-01](../../../framework/unit-bank/OL5-STR-01.md) | Organisations, culture and context | 6 |
 | [OL5-PPR-04](../../../framework/unit-bank/OL5-PPR-04.md) | Designing learning | 6 |
 | [OL5-PPR-05](../../../framework/unit-bank/OL5-PPR-05.md) | Facilitating learning | 6 |
-| [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md) | Learning in the flow of work | 6 |
+| [OL5-PPR-06](../../../framework/unit-bank/OL5-PPR-06.md) | Learning from work and from colleagues | 6 |
 
 ### Optional units
 
@@ -77,7 +77,7 @@ Select 1 optional unit.
 | Code | Unit | Credits |
 |---|---|---|
 | [OL5-PPR-08](../../../framework/unit-bank/OL5-PPR-08.md) | People analytics | 6 |
-| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) | Resourcing and talent | 6 |
+| [OL5-PPR-01](../../../framework/unit-bank/OL5-PPR-01.md) | Recruitment, retention and succession | 6 |
 | [OL5-PEO-03](../../../framework/unit-bank/OL5-PEO-03.md) | Leading inclusively | 6 |
 | [OL5-PEO-05](../../../framework/unit-bank/OL5-PEO-05.md) | Wellbeing and sustainable performance | 6 |
 | [OL5-CHG-01](../../../framework/unit-bank/OL5-CHG-01.md) | Leading change | 6 |

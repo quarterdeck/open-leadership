@@ -123,11 +123,21 @@ class TeamSummary(unittest.TestCase):
         return [{"Voice": {"score": x}} for x in scores]
 
     def test_summary_of_a_team(self):
-        summary = s.team_summary(self.results([20.0, 50.0, 80.0, 60.0]))["Voice"]
-        self.assertEqual(summary, {"n": 4, "lowest": 20.0, "median": 55.0, "highest": 80.0, "spread": 60.0})
+        summary = s.team_summary(self.results([20.0, 50.0, 80.0, 60.0, 40.0]))["Voice"]
+        self.assertEqual(summary, {"n": 5, "lowest": 20.0, "median": 50.0, "highest": 80.0, "spread": 60.0})
 
-    def test_fewer_than_three_scores_give_no_summary(self):
-        self.assertEqual(s.team_summary(self.results([20.0, None, 80.0]))["Voice"], {"n": 2})
+    def test_fewer_than_five_scores_give_no_summary(self):
+        self.assertEqual(s.team_summary(self.results([20.0, None, 80.0, 50.0, 60.0]))["Voice"], {"n": 4})
+
+
+class LoadItemBank(unittest.TestCase):
+    def test_item_that_is_in_the_bank_two_times_is_an_error(self):
+        import tempfile
+        with tempfile.NamedTemporaryFile("w", suffix=".csv", delete=False) as f:
+            f.write("id,order,text,scale,keyed,source\nA1,1,x,Voice,+,s\nA1,2,y,Voice,-,s\n")
+        with self.assertRaises(ValueError):
+            s.load_item_bank(f.name)
+        os.unlink(f.name)
 
 
 class ItemBanks(unittest.TestCase):

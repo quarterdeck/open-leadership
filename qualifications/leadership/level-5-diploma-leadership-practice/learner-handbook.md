@@ -36,7 +36,7 @@ manager, to fit your job.
 | [OL5-PEO-02](../../../framework/unit-bank/OL5-PEO-02.md) Managing performance and developing people (core) | Manage the performance of a team and develop the capability of its members |
 | [OL5-PEO-04](../../../framework/unit-bank/OL5-PEO-04.md) Influence, stakeholders and communication (core) | Analyse stakeholders, and influence and communicate with them to reach an objective |
 | [OL5-CHG-01](../../../framework/unit-bank/OL5-CHG-01.md) Leading change (core) | Plan and lead a change, and bring the people affected with them |
-| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (core) | Coach and mentor people at work with a recognised process and clear agreements |
+| [OL5-COA-01](../../../framework/unit-bank/OL5-COA-01.md) Coaching and mentoring practice (core) | Coach and mentor people at work with a staged process and clear agreements |
 | [OL5-SLF-02](../../../framework/unit-bank/OL5-SLF-02.md) Ethics and professional judgement (optional) | Apply ethical principles to decisions at work and act with professional integrity |
 | [OL5-PEO-03](../../../framework/unit-bank/OL5-PEO-03.md) Leading inclusively (optional) | Create conditions in which different people can contribute fully |
 | [OL5-PEO-05](../../../framework/unit-bank/OL5-PEO-05.md) Wellbeing and sustainable performance (optional) | Manage workload and conditions so that people perform well without harm to their health |

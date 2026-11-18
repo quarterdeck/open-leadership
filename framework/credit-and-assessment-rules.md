@@ -45,7 +45,8 @@ meet the outcomes.
 | Certificate | 121 to 369 hours | 13 to 36 |
 | Diploma | 370 hours or more | 37 or more |
 
-These are the size thresholds that Ofqual publishes for regulated qualifications. Open
+These are the size thresholds that Ofqual publishes for regulated qualifications (Ofqual
+Handbook, Crown copyright, used under the Open Government Licence v3.0). Open
 Leadership uses the same thresholds so that the words mean what UK readers expect.
 
 Titles follow the pattern `OL Level [n] [Award | Certificate | Diploma] in [Subject]`.
@@ -69,8 +70,8 @@ The OL Level 7 Diploma in Strategic People Practice is **60 credits** (6 units, 
 
 | Option | For | Against |
 |---|---|---|
-| 60 credits | A working practitioner can complete it in one to two years. It fits the standard Level 7 unit. It keeps cost and time low, which is the purpose of Open Leadership. It is larger than the other Level 7 diplomas (40 credits), which reflects the specialist content | It is half the size of the best-known qualification in the field, so some employers will see it as lighter |
-| 120 credits | It matches the size that the HR market knows | 1,200 hours is a barrier for most people in work. It needs 12 Level 7 units, and the bank would need 6 more specialist units of lower value |
+| 60 credits | A working practitioner can complete it in one to two years. It fits the standard Level 7 unit. It keeps cost and time low, which is the purpose of Open Leadership. It is larger than the other Level 7 diplomas (40 credits), which reflects the specialist content | Some employers will see it as lighter than a larger qualification |
+| 120 credits | Some employers expect a larger qualification at this level | 1,200 hours is a barrier for most people in work. It needs 12 Level 7 units, and the bank would need 6 more specialist units of lower value |
 
 The decision is 60 credits. If employers ask for a larger award, a later version can add an
 extended diploma from the same units.

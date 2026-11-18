@@ -5,7 +5,8 @@
 Version 0.1.0 (draft, before the pilot).
 
 A facilitator is a person who gives the profile to others and helps them to use the result: a
-manager, a coach, a trainer or a people practitioner. You do not need a licence or a
+coach, a trainer, a people practitioner or a manager. The facilitator is never the line manager
+of a person who takes the profile, because the person who scores the answers sees them. You do not need a licence or a
 certificate. You do need to read this guide and the
 [technical manual](technical-manual.md), and to follow the rules on
 [data protection](../data-protection.md).
@@ -15,7 +16,8 @@ certificate. You do need to read this guide and the
 1. The profile is for development. It is never used for a decision about a person.
 2. It is voluntary. A person who does not take part has no disadvantage.
 3. It is a draft that is not yet tested. The result is a suggestion.
-4. The person sees the result first and decides who else sees it.
+4. The person decides who sees the result. The facilitator who scores the answers sees it, and
+   nobody else does unless the person agrees.
 5. No result is good or bad.
 
 If your organisation cannot keep these five promises, do not use the profile.
@@ -89,7 +91,7 @@ subject for this profile.
 
 ## Used with the OL Preference Profile
 
-The behaviour profile describes what others see. The preference profile describes the
+The behaviour profile describes how a person says that they act. The preference profile describes the
 conditions that a person likes. If a person takes both, compare them: a difference between
 what a person prefers and how they act is often the most useful part of the conversation.
 

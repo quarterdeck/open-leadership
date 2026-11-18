@@ -46,7 +46,9 @@ history of each file is in the repository.
 
 ## Rules that no change can break
 
-1. No material from a proprietary qualification or profiling tool. All content is original.
+1. No material from a proprietary qualification or profiling tool. All content is
+   independently written, or comes from a public-domain or openly licensed source that is named
+   in SOURCES.md.
 2. No trade marks of other organisations in product names.
 3. No statement that Open Leadership is accredited, regulated, endorsed or approved, or
    equivalent to another qualification.

@@ -66,7 +66,7 @@ Select 1 optional unit.
 |---|---|---|
 | [OL3-PEO-01](../../../framework/unit-bank/OL3-PEO-01.md) | Leading a team | 5 |
 | [OL3-PEO-02](../../../framework/unit-bank/OL3-PEO-02.md) | Managing individual performance | 5 |
-| [OL3-OPS-02](../../../framework/unit-bank/OL3-OPS-02.md) | Solving problems and making decisions | 5 |
+| [OL3-OPS-02](../../../framework/unit-bank/OL3-OPS-02.md) | Finding causes and deciding what to do | 5 |
 | [OL3-OPS-03](../../../framework/unit-bank/OL3-OPS-03.md) | Working with data and digital tools | 5 |
 | [OL3-OPS-04](../../../framework/unit-bank/OL3-OPS-04.md) | Delivering a small project | 5 |
 | [OL3-RES-01](../../../framework/unit-bank/OL3-RES-01.md) | Working with budgets and resources | 5 |
