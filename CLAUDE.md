@@ -118,9 +118,9 @@ to `main`.
   unit file in agreement.
 - Unit size is fixed for each level (5, 6 and 10 credits at Levels 3, 5 and 7). The credits of a
   qualification are the number of units multiplied by the unit size.
-- The five documents of each qualification in `qualifications/` come from one template for all
-  17 qualifications. The unit lists, purposes and outcomes in them repeat the unit bank. After
-  a change to a unit or to the map, make the same change in each qualification that uses it.
+- `python3 tools/build_qualifications.py .` writes the five documents of each of the 17
+  qualifications, and `qualifications/README.md`, from the unit bank and its map. Do not edit
+  those documents by hand. Change the unit, the map or the text in the script, then run it.
 - `qualifications/people-practice/` also holds the competence framework and the recognition
   scheme. Both are written by hand.
 - `research/framework-architecture.md` is the Phase 1 proposal. Where it differs from the files
@@ -139,4 +139,4 @@ GitHub Pages builds the site from the root of `main` with its built-in Jekyll (`
 There is no build step and no workflow. The Markdown files are the pages, and `README.md` is the
 home page. The address is https://quarterdeck.github.io/open-leadership/.
 
-There are no build, lint or test commands until the scoring code exists (Phase 4).
+There are no lint or test commands until the scoring code exists (Phase 4).
