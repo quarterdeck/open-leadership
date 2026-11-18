@@ -69,7 +69,7 @@ All documents are Markdown. No Word files.
 
 - `framework/`: level descriptors, credit and assessment rules, `unit-bank/` (one file per unit).
   Qualifications in all three families share units from this one bank.
-- `qualifications/management/`, `leadership/`, `people-practice/`: each qualification has
+- `qualifications/management/`, `leadership/`, `people-practice/`: one folder for each qualification, with
   `specification.md`, `unit-summaries.md`, `assessment-guide.md`, `centre-guide.md` and
   `learner-handbook.md`.
 - `profiles/behaviour-profile/`, `profiles/preference-profile/`: `technical-manual.md`,
@@ -86,9 +86,9 @@ The work has five phases (section 9 of the specification). Phases 1 and 2 end wi
 Kris's approval.
 
 1. Research and plan. Done.
-2. Framework core: level descriptors, credit rules, unit bank skeleton. **Written; waits for
-   Kris's approval.**
-3. Qualifications: management, then leadership, then people practice. Then check unit overlap.
+2. Framework core: level descriptors, credit rules, unit bank. Done.
+3. Qualifications: management, then leadership, then people practice, with the unit overlap
+   check (`research/unit-overlap-check.md`). Written.
 4. Profiles: item banks, scoring, technical manuals, report templates.
 5. Review: originality check against the hard rules.
 
@@ -118,6 +118,11 @@ to `main`.
   unit file in agreement.
 - Unit size is fixed for each level (5, 6 and 10 credits at Levels 3, 5 and 7). The credits of a
   qualification are the number of units multiplied by the unit size.
+- The five documents of each qualification in `qualifications/` come from one template for all
+  17 qualifications. The unit lists, purposes and outcomes in them repeat the unit bank. After
+  a change to a unit or to the map, make the same change in each qualification that uses it.
+- `qualifications/people-practice/` also holds the competence framework and the recognition
+  scheme. Both are written by hand.
 - `research/framework-architecture.md` is the Phase 1 proposal. Where it differs from the files
   in `framework/`, the files in `framework/` are correct.
 

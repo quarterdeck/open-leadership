@@ -30,16 +30,21 @@ All qualifications use one bank of units and one credit system.
 
 ## Status
 
-Draft. The framework core is written and waits for approval. The units are skeletons, and no
-qualification or profile is ready for use yet.
+Draft. The qualifications are written and wait for review. The two profiles are not written
+yet. Nobody has tested the qualifications with learners.
 
+- [Qualifications](qualifications/README.md): 17 qualifications, each with a specification, unit
+  summaries, an assessment guide, a centre guide and a learner handbook
+- [Unit bank](framework/unit-bank/README.md): 61 units
 - [Level descriptors](framework/level-descriptors.md)
 - [Credit and assessment rules](framework/credit-and-assessment-rules.md), with the rules for
   certificates, badges and CPD
-- [Unit bank](framework/unit-bank/README.md): 61 units and the qualifications they make
+- People practice: [competence framework](qualifications/people-practice/competence-framework.md)
+  and [recognition scheme](qualifications/people-practice/recognition-scheme.md)
 - [Governance](GOVERNANCE.md) and [how to contribute](CONTRIBUTING.md)
 - Research: [proposed architecture](research/framework-architecture.md),
-  [source notes](research/source-notes.md), [name-clash report](research/name-clash-report.md),
+  [source notes](research/source-notes.md),
+  [unit overlap check](research/unit-overlap-check.md), [name-clash report](research/name-clash-report.md),
   [sources](SOURCES.md)
 - [Project specification](docs/agent-spec.md)
 
