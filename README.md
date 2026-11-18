@@ -30,10 +30,13 @@ All qualifications use one bank of units and one credit system.
 
 ## Status
 
-Phase 1: research and planning. No qualification or profile is published yet.
+Phase 1 (research and planning) is complete and waits for approval. No qualification or
+profile is published yet.
 
+- [Proposed framework architecture](research/framework-architecture.md)
+- [Source notes](research/source-notes.md)
+- [Name-clash report](research/name-clash-report.md)
 - [Sources](SOURCES.md)
-- [Research](research/)
 - [Project specification](docs/agent-spec.md)
 
 ## Independent and unregulated
