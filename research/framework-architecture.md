@@ -130,9 +130,9 @@ and L&D. It does not use the Profession Map of the incumbent body.
 
 | Grade | Knowledge | Experience | Assessment |
 |---|---|---|---|
-| OL Associate in People Practice | Level 3 certificate, or equivalent | 1 year in a people practice role | Written account, corroborated by another person |
-| OL Practitioner in People Practice | Level 5 diploma, or equivalent | 2 years | Written account and a professional discussion |
-| OL Senior Practitioner in People Practice | Level 7 diploma, or equivalent | 4 years, some at strategic level | Written account and a professional discussion |
+| OL Associate in People Practice | Level 3 certificate, or a comparable qualification | 1 year in a people practice role | Written account, corroborated by another person |
+| OL Practitioner in People Practice | Level 5 diploma, or a comparable qualification | 2 years | Written account and a professional discussion |
+| OL Senior Practitioner in People Practice | Level 7 diploma, or a comparable qualification | 4 years, some at strategic level | Written account and a professional discussion |
 
 Each grade has a route for experience only, and renewal with a record of continuing
 development. The scheme needs an owner that operates it (see section 10, question 1).
