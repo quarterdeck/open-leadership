@@ -1,0 +1,110 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project
+
+Open Leadership (OL) is an open, freely licensed framework of management, leadership and people
+practice qualifications, with two profiling tools (a behaviour profile and a preference profile).
+Quarterdeck commissions it. The readers are HR, L&D and line managers in UK organisations.
+
+The full specification is `docs/agent-spec.md`. Read it before you write content. This file is a
+summary of the rules that apply to every task.
+
+OL is comparable with the proprietary offerings in structure, level, scope and usefulness. It is
+independently authored. Every word of syllabus, handbook, assessment item and report text is
+written fresh from public facts and primary sources.
+
+## Hard rules
+
+These rules override all other instructions. If a task needs to break one, stop and ask.
+
+1. No copying. Do not reproduce, closely paraphrase or translate material from CMI, ILM, City &
+   Guilds, CIPD, DiSC (Wiley) or Insights Discovery (Insights Group). This includes unit
+   specifications, handbooks, items, questionnaires, scoring keys, report text and model diagrams,
+   and leaked, scraped or archived copies.
+2. No trade marks in product names. Do not use the incumbents' names, "Discovery" as a product
+   name, or a colour-and-character naming system. A nominative reference in a comparison needs a
+   human review before publication.
+3. No false claims. Never state or imply that OL is accredited, endorsed, approved, recognised,
+   regulated by Ofqual or "equivalent" to an incumbent. Write "comparable in level and scope",
+   with the disclaimer that OL is an independent, unregulated framework.
+4. No lookalike branding. Visual identity, colours, report layouts and graphics must differ
+   visibly from the incumbents.
+5. Open foundations only. Permitted inputs: Ofqual RQF level descriptors, UK National Occupational
+   Standards, published academic literature, public-domain psychometric resources (IPIP), and the
+   public structure of qualifications (levels, credits, titles, hours, assessment methods) as facts.
+6. Data protection. A profiling tool that collects personal data is designed for UK GDPR by
+   default: consent, minimal data, retention limits, no sale of data.
+7. Record provenance. Add each source to `SOURCES.md`: the link, the facts taken, the licence.
+
+The profiles are for development and self-awareness. They are not validated for recruitment or
+selection. Use no clinical or diagnostic language.
+
+## This repository is public
+
+`quarterdeck/open-leadership` is a public GitHub repository. Each push to `main` publishes the
+content on GitHub and on the site. Therefore:
+
+- Do not write or push `comparison/positioning.md`, or any other comparison with an incumbent,
+  before Kris reviews it.
+- Do not add private data or internal business information.
+
+## Licence
+
+MIT for all content, documents and code (Kris's decision; it replaces the CC BY-SA default in
+section 6 of the specification). Each file carries a licence header. In Markdown, put this
+comment after the front matter or on the first line:
+
+```
+<!-- SPDX-License-Identifier: MIT. Copyright (c) Quarterdeck. -->
+```
+
+## Structure
+
+All documents are Markdown. No Word files.
+
+- `framework/`: level descriptors, credit and assessment rules, `unit-bank/` (one file per unit).
+  Qualifications in all three families share units from this one bank.
+- `qualifications/management/`, `leadership/`, `people-practice/`: each qualification has
+  `specification.md`, `unit-summaries.md`, `assessment-guide.md`, `centre-guide.md` and
+  `learner-handbook.md`.
+- `profiles/behaviour-profile/`, `profiles/preference-profile/`: `technical-manual.md`,
+  `item-bank.csv`, `scoring/` (code with tests), `reports/`, `facilitator-guide.md`.
+- `research/`: source notes, the name-clash report, the proposed framework architecture.
+- `comparison/`: positioning (human review required).
+- `docs/agent-spec.md`: the specification.
+
+Qualification titles follow `OL Level [n] [Award | Certificate | Diploma] in [Subject]`.
+
+## Process
+
+The work has five phases (section 9 of the specification). Phases 1 and 2 end with a stop for
+Kris's approval.
+
+1. Research and plan. **Current phase.**
+2. Framework core: level descriptors, credit rules, unit bank skeleton.
+3. Qualifications: management, then leadership, then people practice. Then check unit overlap.
+4. Profiles: item banks, scoring, technical manuals, report templates.
+5. Review: originality check against the hard rules.
+
+Before Phase 2, Kris answers the five questions in section 12 of the specification.
+`CONTRIBUTING.md` and `GOVERNANCE.md` depend on those answers.
+
+Work on one workstream at a time. Commit after each unit of work with a clear message and push
+to `main`.
+
+## Writing standards for the content
+
+- British English. Plain, direct, short sentences.
+- No em dashes. No filler words. No "not X but Y" constructions.
+- Learning outcomes use measurable verbs (analyse, apply, evaluate, plan).
+- Each unit includes a short, practical workplace scenario.
+
+## Site
+
+GitHub Pages builds the site from the root of `main` with its built-in Jekyll (`_config.yml`).
+There is no build step and no workflow. The Markdown files are the pages, and `README.md` is the
+home page. The address is https://quarterdeck.github.io/open-leadership/.
+
+There are no build, lint or test commands until the scoring code exists (Phase 4).
