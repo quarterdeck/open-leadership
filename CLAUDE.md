@@ -90,7 +90,9 @@ Kris's approval.
 3. Qualifications: management, then leadership, then people practice, with the unit overlap
    check (`research/unit-overlap-check.md`). Written.
 4. Profiles: item banks, scoring, technical manuals, report templates. Written. No pilot yet.
-5. Review: originality check against the hard rules (`research/originality-review.md`).
+5. Review: originality check against the hard rules. Done. `research/originality-review.md`
+   lists 14 decisions that wait for Kris. Read it before you change a title, a profile model or
+   a badge.
 
 Work on one workstream at a time. Commit after each unit of work with a clear message and push
 to `main`.

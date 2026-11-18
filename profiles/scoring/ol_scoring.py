@@ -33,7 +33,7 @@ def load_item_bank(path):
     with open(path, newline="", encoding="utf-8") as f:
         bank = {}
         for row in csv.DictReader(f):
-                        if row["id"] in bank:
+            if row["id"] in bank:
                 raise ValueError(f"Item {row['id']} is in the item bank more than one time")
             if row["keyed"] not in ("+", "-"):
                 raise ValueError(f"Item {row['id']}: keyed must be + or -")

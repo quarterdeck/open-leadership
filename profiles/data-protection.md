@@ -51,8 +51,8 @@ guidance of the Information Commissioner's Office before you start.
 
 The organisation decides and records its lawful basis. In employment, consent is often weak
 because the employer has more power than the worker. For that reason rules 1 and 8 are strict:
-they make the choice real. Do a data protection impact assessment before a first use, because a profile evaluates
-personal aspects of people at work.
+they make the choice real. Do a data protection impact assessment before a first use, because
+a profile evaluates personal aspects of people at work.
 
 ## The notice for the person
 
@@ -63,7 +63,8 @@ A model text. Change the parts in brackets.
 > right or wrong answers.
 >
 > You do not have to take part. If you do, [you get your result directly / the facilitator,
-> [name], scores your answers and gives you your result]. Nobody else sees it unless you agree. [Organisation] will not use it for any decision about your job.
+> [name], scores your answers and gives you your result]. Nobody else sees it unless you
+> agree. [Organisation] will not use it for any decision about your job.
 >
 > [Organisation] keeps your answers and your result for [period, 12 months or less] and then
 > deletes them. You can ask [contact] to delete them sooner.

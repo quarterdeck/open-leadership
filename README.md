@@ -47,7 +47,8 @@ validity are not known.
 - [Governance](GOVERNANCE.md) and [how to contribute](CONTRIBUTING.md)
 - Research: [proposed architecture](research/framework-architecture.md),
   [source notes](research/source-notes.md),
-  [unit overlap check](research/unit-overlap-check.md), [name-clash report](research/name-clash-report.md),
+  [unit overlap check](research/unit-overlap-check.md),
+  [originality review](research/originality-review.md), [name-clash report](research/name-clash-report.md),
   [sources](SOURCES.md)
 - [Project specification](docs/agent-spec.md)
 

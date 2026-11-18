@@ -141,7 +141,7 @@ def analyse(bank, data, retest=None, group=None):
 
 
 def norms_from(report):
-        """Norms for ol_scoring.py. Alpha is the estimate of reliability. A scale with no alpha gets no norms."""
+    """Norms for ol_scoring.py. Alpha is the estimate of reliability. A scale with no alpha gets no norms."""
     return {scale: {"mean": e["mean"], "sd": e["sd"], "reliability": e["alpha"]}
             for scale, e in report["scales"].items() if e["alpha"] is not None and e["sd"]}
 
