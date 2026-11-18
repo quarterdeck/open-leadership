@@ -2,11 +2,12 @@
 
 # Unit bank
 
-Version 0.1.0 (draft for approval).
+Version 0.2.0 (draft).
 
 Every Open Leadership qualification is a set of units from this bank. The rules are in
-[credit-and-assessment-rules.md](../credit-and-assessment-rules.md). Each unit is a skeleton in
-this version: it has a title, a size and a purpose. The full content is written in Phase 3.
+[credit-and-assessment-rules.md](../credit-and-assessment-rules.md). Each unit has a purpose,
+learning outcomes, assessment criteria, indicative content, a workplace scenario and evidence
+requirements. The qualifications are in [qualifications/](../../qualifications/README.md).
 
 The bank has 61 units: 19 at Level 3, 28 at Level 5 and 14 at Level 7.
 

@@ -47,7 +47,7 @@ see them.
 **Outcome 3.** Needs at the level of the person, the team and the organisation. Learning from
 the work: new tasks, projects, shadowing, delegation. Learning from other people: coaching,
 mentoring, feedback. Formal learning: courses, qualifications, self-study. How to measure a
-change in performance after an activity. Succession and the loss of key skills.
+change in performance after an activity. Succession and the loss of essential skills.
 
 **Outcome 4.** Common errors of judgement: recent events count for too much, one strong point
 colours the whole view, people who are like the manager get higher ratings. Equal treatment of
