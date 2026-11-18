@@ -27,7 +27,7 @@ the public source before a decision.
 - The risk is in names and structure. Some qualification titles are close to existing titles.
   Some well-known models were recognisable in plain words. The preference profile follows a
   well-known public idea. Some data protection promises were stronger than the design.
-- 30 points were corrected. 14 decisions are open for a person.
+- 33 points were corrected. 14 decisions are open for a person.
 
 ## Open decisions for a person
 
@@ -52,11 +52,6 @@ Smaller points that stay open:
 
 - Report text of the preference profile describes the "practical", "by criteria" and "flexible"
   sides more fully than the items measure. The technical manual now says so.
-- The provisional band uses 1.96 standard errors. With 10 to 12 items, a larger multiplier
-  (about 2.2) is more exact.
-- With a norms file, the cuts at 40 and 60 apply to percentiles. The manuals do not yet say so.
-- The scoring code gives an unhelpful error for a response such as "3.0", and the analysis
-  code stops on an empty data set.
 - Items to look at in the pilot: PP25 "Believe people should fend for themselves" (an attitude
   about society), PP02 "Rarely notice my emotional reactions" (not about decisions), BP39 "Like
   to visit new places" (not about work).
@@ -103,6 +98,9 @@ Smaller points that stay open:
 | Data protection | An impact assessment was only "considered" | Required before a first use |
 | Scoring code | An item that is in the bank two times gave a wrong count with no error | An error, with a test |
 | Analysis code | Norms with no reliability value stopped the scoring code | Such a scale gets no norms |
+| Scoring code and manuals (after the review) | The provisional band used 1.96 standard errors, which is too small for 10 to 12 items | The 95% value of Student's t for the number of answered items |
+| Manuals (after the review) | Did not say that the cuts at 40 and 60 apply to percentiles when norms exist | Stated |
+| Scoring code, analysis code (after the review) | An unclear error for a response such as "3.0", and for a data set with no complete respondents | Clear errors, with tests |
 
 ## General ideas that remain in the units
 

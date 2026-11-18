@@ -88,6 +88,11 @@ class Band(unittest.TestCase):
         self.assertEqual(mixed["score"], steady["score"])
         self.assertGreater(mixed["high"] - mixed["low"], steady["high"] - steady["low"])
 
+    def test_band_uses_the_t_value_for_the_number_of_answers(self):
+        # Four answers 2, 4, 2, 4: mean 3, variance 4/3, standard error 0.577. t for 3 degrees of freedom is 3.182.
+        result = s.score_scale([2, 4, 2, 4], 4)
+        self.assertAlmostEqual(result["high"] - result["score"], 3.182 * (4 / 3 / 4) ** 0.5 / 4 * 100, places=1)
+
     def test_band_stays_inside_0_to_100(self):
         bank = bank_of()
         result = s.score_profile(bank, {i: (5 if k == "+" else 1) for i, (_, k) in bank.items()})["Voice"]
@@ -128,6 +133,24 @@ class TeamSummary(unittest.TestCase):
 
     def test_fewer_than_five_scores_give_no_summary(self):
         self.assertEqual(s.team_summary(self.results([20.0, None, 80.0, 50.0, 60.0]))["Voice"], {"n": 4})
+
+
+class LoadResponses(unittest.TestCase):
+    def load(self, text):
+        import tempfile
+        with tempfile.NamedTemporaryFile("w", suffix=".csv", delete=False) as f:
+            f.write(text)
+        try:
+            return s.load_responses(f.name)
+        finally:
+            os.unlink(f.name)
+
+    def test_empty_response_is_a_missing_answer(self):
+        self.assertEqual(self.load("id,response\nA1,4\nA2,\n"), {"A1": 4, "A2": None})
+
+    def test_response_that_is_not_a_whole_number_is_a_clear_error(self):
+        with self.assertRaisesRegex(ValueError, "A1.*3.0"):
+            self.load("id,response\nA1,3.0\n")
 
 
 class LoadItemBank(unittest.TestCase):

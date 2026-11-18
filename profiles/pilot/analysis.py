@@ -112,6 +112,8 @@ def analyse(bank, data, retest=None, group=None):
         complete = [v for v in keyed.values() if None not in v]
         means[scale] = scale_means(keyed)
         values = list(means[scale].values())
+        if len(complete) < 2:
+            raise ValueError(f"Scale {scale}: fewer than two respondents answered all its items")
         entry = {"items": len(items), "n": len(values), "n_complete": len(complete),
                  "mean": r3(mean(values)), "sd": r3(sd(values)),
                  "alpha": r3(cronbach_alpha(complete)),

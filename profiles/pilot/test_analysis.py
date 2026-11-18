@@ -46,6 +46,10 @@ class Statistics(unittest.TestCase):
 class Analyse(unittest.TestCase):
     BANK = {"A1": ("Voice", "+"), "A2": ("Voice", "-"), "A3": ("Voice", "+"), "B1": ("Warmth", "+"), "B2": ("Warmth", "-")}
 
+    def test_data_with_no_respondents_is_a_clear_error(self):
+        with self.assertRaisesRegex(ValueError, "fewer than two"):
+            a.analyse(self.BANK, [])
+
     def data(self, n=200, seed=3):
         rng = random.Random(seed)
         clamp = lambda x: str(min(5, max(1, round(x))))  # noqa: E731

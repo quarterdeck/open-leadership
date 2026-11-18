@@ -119,14 +119,17 @@ The code is [`../scoring/ol_scoring.py`](../scoring/ol_scoring.py), and
    1) ÷ 4 × 100. A score of 50 means that the person's answers balance at the middle of the
    response scale. It does not mean "average for working adults".
 5. **Band.** The band shows the uncertainty of the score. With no norms, it is the score plus
-   and minus 1.96 standard errors of the person's own mean item value, and never less than 5
-   points each way. A person whose answers within a scale disagree gets a wider band.
+   and minus about 2.2 standard errors of the person's own mean item value, and never less than
+   5 points each way. The multiplier is the 95% value of Student's t for the number of answered
+   items: 2.20 for 12 items and 2.26 for 10. A person whose answers within a scale disagree
+   gets a wider band.
 6. **Position.** If the whole band is below 40, the position is "lower". If the whole band is
    above 60, it is "higher". In all other cases it is "middle". The cuts at 40 and 60 are a
    convention for the provisional score. They have no evidence behind them yet.
 7. **Normed score (after the pilot).** With a norms file, the score is the percentile of the
    person in the reference group, and the band comes from the standard error of measurement of
-   the scale.
+   the scale (1.96 standard errors each way). The cuts at 40 and 60 then apply to percentiles:
+   the lower side is below the 40th percentile of the reference group.
 
 ## 7. Norms
 

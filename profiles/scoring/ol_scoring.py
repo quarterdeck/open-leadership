@@ -23,6 +23,11 @@ MAX_RESPONSE = 5
 MAX_MISSING_SHARE = 1 / 6  # 2 items of 12
 MIN_BAND_HALF_WIDTH = 5.0
 BAND_Z = 1.96
+# Two-sided 95% values of Student's t for 1 to 30 degrees of freedom. The provisional band
+# comes from a small number of items, so the normal value 1.96 is too small.
+BAND_T = (12.706, 4.303, 3.182, 2.776, 2.571, 2.447, 2.365, 2.306, 2.262, 2.228,
+          2.201, 2.179, 2.160, 2.145, 2.131, 2.120, 2.110, 2.101, 2.093, 2.086,
+          2.080, 2.074, 2.069, 2.064, 2.060, 2.056, 2.052, 2.048, 2.045, 2.042)
 LOWER_CUT = 40.0
 UPPER_CUT = 60.0
 MIN_TEAM_SIZE = 5
@@ -43,8 +48,14 @@ def load_item_bank(path):
 
 def load_responses(path):
     """Return {item id: response or None} from a responses file."""
+    responses = {}
     with open(path, newline="", encoding="utf-8") as f:
-        return {row["id"]: (int(row["response"]) if row["response"].strip() else None) for row in csv.DictReader(f)}
+        for row in csv.DictReader(f):
+            text = row["response"].strip()
+            if text and not text.isdigit():
+                raise ValueError(f"Item {row['id']}: response {text!r} is not a whole number")
+            responses[row["id"]] = int(text) if text else None
+    return responses
 
 
 def keyed_value(response, keyed):
@@ -96,7 +107,9 @@ def score_scale(values, n_items, norm=None):
         score = to_hundred(mean)
         if len(values) > 1:
             variance = sum((v - mean) ** 2 for v in values) / (len(values) - 1)
-            half = BAND_Z * math.sqrt(variance / len(values)) / (MAX_RESPONSE - MIN_RESPONSE) * 100
+            df = len(values) - 1
+            t = BAND_T[df - 1] if df <= len(BAND_T) else BAND_Z
+            half = t * math.sqrt(variance / len(values)) / (MAX_RESPONSE - MIN_RESPONSE) * 100
         else:
             half = 100.0
         half = max(half, MIN_BAND_HALF_WIDTH)
