@@ -49,8 +49,10 @@ selection. Use no clinical or diagnostic language.
 `quarterdeck/open-leadership` is a public GitHub repository. Each push to `main` publishes the
 content on GitHub and on the site. Therefore:
 
-- Do not write or push `comparison/positioning.md`, or any other comparison with an incumbent,
-  before Kris reviews it.
+- Do not commit or push `comparison/positioning.md`, or any other comparison with an incumbent,
+  before Kris reviews it. A draft of that file exists in the working tree only, and
+  `.gitignore` keeps it out of the repository. After the review, remove the `.gitignore` line
+  and commit the file.
 - Do not add private data or internal business information.
 
 ## Licence
@@ -147,6 +149,13 @@ home page. The address is https://quarterdeck.github.io/open-leadership/.
 - `profiles/scoring/ol_scoring.py` scores both profiles. The `item-bank.csv` of a profile is its
   scoring key. `profiles/pilot/analysis.py` analyses pilot data and imports the scoring code.
   Both use only the Python standard library.
+- `profiles/software-specification.md` tells a developer how to build an application for the
+  profiles. `profiles/scoring/test-vectors.json` holds answers and expected results for other
+  implementations. A test checks it against the code. If you change the scoring, make the
+  file again: `python3 profiles/scoring/make_test_vectors.py`.
+- `profiles/pilot/factor_analysis.R` needs R and the package lavaan
+  (`Rscript profiles/pilot/factor_analysis.R ITEM_BANK.csv PILOT.csv`). It has no automatic
+  test. `profiles/pilot/simulate_pilot.py` writes invented data to try it.
 - Run the tests from the root:
   `python3 -m unittest discover -s profiles/scoring -p "test_*.py"` and
   `python3 -m unittest discover -s profiles/pilot -p "test_*.py"`.
