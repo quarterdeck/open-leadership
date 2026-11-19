@@ -58,7 +58,7 @@ option that costs more over time. The environmental effect of the resources that
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Tomasz leads the timber and building materials department of a large DIY store, with a team of
+Piotr leads the timber and building materials department of a large DIY store, with a team of
 six. Halfway through the year, the department has used 70% of its overtime budget. Offcuts and
 damaged sheets of board fill a skip each week. The saw that cuts timber for customers has
 broken down three times, and each repair came from the store's repairs budget. The store
@@ -67,9 +67,9 @@ brings trade customers into the store.
 
 Tasks:
 
-1. List the records that Tomasz needs. Explain what each one can tell him.
+1. List the records that Piotr needs. Explain what each one can tell him.
 2. Identify two causes of waste. Propose a change for each one.
-3. Explain what Tomasz can decide and what he must ask the store manager to decide.
+3. Explain what Piotr can decide and what he must ask the store manager to decide.
 
 ## Assessment
 

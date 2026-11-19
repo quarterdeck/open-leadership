@@ -63,18 +63,18 @@ a change in the coach changed the sessions.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Gareth is the operations manager of a hospice charity and one of its four volunteer internal
+Owain is the operations manager of a hospice charity and one of its four volunteer internal
 coaches. His feedback forms are all positive. In a peer review, a colleague listens to a
-recording of one of his sessions and says that Gareth spoke for more than half of the time and
-suggested three solutions. Gareth is surprised and a little hurt. He also sees that he looks
+recording of one of his sessions and says that Owain spoke for more than half of the time and
+suggested three solutions. Owain is surprised and a little hurt. He also sees that he looks
 forward to sessions with one nurse manager and puts off sessions with a fundraiser who cries
 easily. The charity has no supervision for its coaches.
 
 Tasks:
 
-1. Analyse the difference between Gareth's feedback forms and the peer review.
-2. Select reflective methods that help Gareth to examine his reactions to the two people.
-3. Plan Gareth's development for the next six months. Include the support that he needs from
+1. Analyse the difference between Owain's feedback forms and the peer review.
+2. Select reflective methods that help Owain to examine his reactions to the two people.
+3. Plan Owain's development for the next six months. Include the support that he needs from
    the charity.
 
 ## Assessment

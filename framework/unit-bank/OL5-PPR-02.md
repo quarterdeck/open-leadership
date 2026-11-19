@@ -66,7 +66,7 @@ protected characteristic. Sources of feedback: managers, representatives, appeal
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Gurpreet is the HR adviser for the two depots of a regional bus company. The company recognises
+Harpreet is the HR adviser for the two depots of a regional bus company. The company recognises
 a trade union. In March, the operations director issued new rotas at one depot with a week of
 notice and no discussion. Since then, grievances at that depot have risen from two to eleven,
 and short absences have doubled. A depot supervisor now wants to dismiss a driver who refused a
@@ -75,7 +75,7 @@ members. The union representative has asked for a meeting about the rotas.
 
 Tasks:
 
-1. Analyse the state of employee relations at the depot. State the evidence that Gurpreet uses.
+1. Analyse the state of employee relations at the depot. State the evidence that Harpreet uses.
 2. Advise the supervisor on a fair process for the driver's case, and deal with the driver's
    allegation.
 3. Plan the meeting with the union representative, and a consultation on the rotas.

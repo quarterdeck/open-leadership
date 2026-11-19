@@ -58,18 +58,18 @@ leavers, colleagues in payroll. Small improvements: a checklist, a template, a c
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Callum is an HR assistant at a family-owned food manufacturer with 240 employees. The people
-team is Callum and an HR manager. Last month a packer who left was paid for four more weeks, and
+Liam is an HR assistant at a family-owned food manufacturer with 240 employees. The people
+team is Liam and an HR manager. Last month a packer who left was paid for four more weeks, and
 her door pass still worked. Two new starters arrived on a Monday with no locker, no safety boots
 and no login. Shift managers say that the HR forms are slow, so they now send changes directly
-to payroll by text message. The HR manager wants every change to come through Callum. The shift
+to payroll by text message. The HR manager wants every change to come through Liam. The shift
 managers want fewer forms.
 
 Tasks:
 
 1. Draw the stages from offer to exit at this company. Show who owns each hand-over.
 2. Identify where the leaver and the new starters were failed, and the cause in each case.
-3. Propose two changes that Callum can make himself, and one matter that he must pass to the HR
+3. Propose two changes that Liam can make himself, and one matter that he must pass to the HR
    manager.
 
 ## Assessment

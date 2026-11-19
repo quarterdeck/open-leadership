@@ -71,19 +71,19 @@ Fitness to practise: load, wellbeing, currency of knowledge.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Priya is the group people director of a construction company with 1,400 staff. She is also a
+Kavita is the group people director of a construction company with 1,400 staff. She is also a
 trained coach. The chief executive asks her to coach Martin, who became managing director of
 the civil engineering division three months ago. Two of Martin's directors have complained that
 he overrules them in front of clients. The chief executive wants "a quiet word on progress each
-month". Priya sits on the committee that decides executive pay. In the second session Martin
+month". Kavita sits on the committee that decides executive pay. In the second session Martin
 says that he doubts the figures in a large bid that the board approves next week.
 
 Tasks:
 
-1. Appraise whether Priya is the right coach for Martin. Justify your view.
+1. Appraise whether Kavita is the right coach for Martin. Justify your view.
 2. Design the contract that this work needs, if it continues. State what the chief executive
    is told.
-3. Formulate Priya's response to what Martin said about the bid.
+3. Formulate Kavita's response to what Martin said about the bid.
 
 ## Assessment
 

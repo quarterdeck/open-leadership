@@ -67,19 +67,19 @@ peers. The manager's own health as a condition of the team's.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Kwame is a contracts manager for a regional building contractor. He is responsible for three
+Kofi is a contracts manager for a regional building contractor. He is responsible for three
 school refurbishment sites that must be complete before the autumn term. His five site managers
-have worked six days a week since May. One has been absent with stress for a month, and Kwame
+have worked six days a week since May. One has been absent with stress for a month, and Kofi
 covers that site himself, with calls to the others from 6 am. A near miss with a scaffold last
 week involved a site manager at the end of a 13-hour day. The operations director has just
-accepted a fourth school with the same deadline and has told Kwame that the team will cope.
+accepted a fourth school with the same deadline and has told Kofi that the team will cope.
 
 Tasks:
 
 1. Analyse the evidence of risk to health and to results in the case.
-2. Write the case that Kwame presents to the operations director about the fourth school, with
+2. Write the case that Kofi presents to the operations director about the fourth school, with
    options.
-3. Plan the return to work of the absent site manager, and state the advice that Kwame needs.
+3. Plan the return to work of the absent site manager, and state the advice that Kofi needs.
 
 ## Assessment
 

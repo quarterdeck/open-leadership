@@ -57,17 +57,17 @@ with feedback. A development record. How to tell if an activity changed the work
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Callum became team leader of eight sorters at a parcel depot six weeks ago. He was a sorter on
+Fraser became team leader of eight sorters at a parcel depot six weeks ago. He was a sorter on
 the same shift for four years. When the belt gets busy he goes back to sorting, so his rotas and
 safety checks are late and he finishes them at home. A close friend on the team has asked him
-twice for the best shifts, and other sorters have noticed. Callum's manager has asked him for a
-development plan by the end of the month. Callum says that he has no time to write one.
+twice for the best shifts, and other sorters have noticed. Fraser's manager has asked him for a
+development plan by the end of the month. Fraser says that he has no time to write one.
 
 Tasks:
 
-1. Make a plan for Callum's week that deals with the late rotas and safety checks.
-2. Explain how Callum can answer his friend, and why it matters to the team.
-3. Write two development objectives for Callum, each with an activity, a date and a measure.
+1. Make a plan for Fraser's week that deals with the late rotas and safety checks.
+2. Explain how Fraser can answer his friend, and why it matters to the team.
+3. Write two development objectives for Fraser, each with an activity, a date and a measure.
 
 ## Assessment
 

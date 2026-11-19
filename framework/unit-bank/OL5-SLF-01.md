@@ -57,19 +57,19 @@ Reasons to change a plan.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Priya manages two engineering teams, 14 people in total, at a software company. Feedback from
+Meera manages two engineering teams, 14 people in total, at a software company. Feedback from
 her teams and peers says that she is clear, quick and reliable. It also says that she takes
-over each hard problem, and that people have stopped bringing ideas to her. Priya is surprised.
+over each hard problem, and that people have stopped bringing ideas to her. Meera is surprised.
 She thought that she was helping. A senior developer has resigned and told a colleague that
-there was no room to grow. Priya's director wants her to take on a third team in three months.
-Priya already works most evenings.
+there was no room to grow. Meera's director wants her to take on a third team in three months.
+Meera already works most evenings.
 
 Tasks:
 
-1. Analyse the difference between Priya's intention and her effect. State what other evidence
+1. Analyse the difference between Meera's intention and her effect. State what other evidence
    she needs.
-2. Propose one change in behaviour for Priya to test, and how she can judge the result.
-3. Select three development priorities for Priya before she takes the third team. Give reasons.
+2. Propose one change in behaviour for Meera to test, and how she can judge the result.
+3. Select three development priorities for Meera before she takes the third team. Give reasons.
 
 ## Assessment
 

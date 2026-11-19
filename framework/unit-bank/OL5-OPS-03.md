@@ -66,17 +66,17 @@ the reasons at the time of the decision.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Siobhan manages the outpatient physiotherapy service of an NHS trust. One in seven patients
+Niamh manages the outpatient physiotherapy service of an NHS trust. One in seven patients
 does not attend a booked appointment, and the waiting list is at fourteen weeks. The clinical
 lead wants to book more patients than there are slots. The trust's digital team offers text
-reminders, at a cost to Siobhan's budget. The booking data shows that missed appointments are
+reminders, at a cost to Niamh's budget. The booking data shows that missed appointments are
 most common on Monday mornings and among patients from two postcode areas with poor bus
 services. Several clinicians say that the patients who miss appointments do not value the
 service.
 
 Tasks:
 
-1. State the decision question. List the evidence that Siobhan has and the evidence that she
+1. State the decision question. List the evidence that Niamh has and the evidence that she
    lacks.
 2. Assess what the booking data can show about the cause and what it cannot show.
 3. Recommend a decision, or a trial, to the divisional manager. State how certain the evidence

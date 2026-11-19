@@ -68,7 +68,7 @@ senior person, a tribunal claim, facts that the guidance does not cover. The cos
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Gurpreet is the people manager for a group of six hotels. The group will close the restaurant
+Manpreet is the people manager for a group of six hotels. The group will close the restaurant
 at one hotel for lunch and wants to change the shifts of 14 kitchen and waiting staff. Some have
 contracts with fixed hours. Some have casual arrangements but have worked the same shifts for
 years. One chef recently asked to work only mornings because of childcare. The general manager
@@ -76,9 +76,9 @@ wants to announce the new rota on Friday and says that anyone who refuses can le
 
 Tasks:
 
-1. Identify the areas of employment law that apply. State what Gurpreet must find out first.
+1. Identify the areas of employment law that apply. State what Manpreet must find out first.
 2. Draft the advice to the general manager: the options, the risks and a lawful process.
-3. State which points Gurpreet will check in current official guidance and which need legal
+3. State which points Manpreet will check in current official guidance and which need legal
    advice.
 
 ## Assessment

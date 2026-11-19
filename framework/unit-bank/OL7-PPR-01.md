@@ -66,7 +66,7 @@ groups of employees. Sources of challenge to their own judgement.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Marcus is the director of people at a council that employs 6,000 staff. The council must cut its
+Winston is the director of people at a council that employs 6,000 staff. The council must cut its
 budget by a tenth in three years while demand for adult social care grows. A third of its social
 workers and planning officers can retire within five years. Agency staff fill one post in six in
 children's services at a high cost. Councillors have promised no compulsory redundancies. The
@@ -75,7 +75,7 @@ trade unions expect to be involved from the start.
 
 Tasks:
 
-1. Appraise the workforce risks. State the evidence that Marcus needs and its likely gaps.
+1. Appraise the workforce risks. State the evidence that Winston needs and its likely gaps.
 2. Formulate two strategic options for the workforce and justify a choice between them.
 3. Design the approach to forecasts and scenarios, and the governance of the plan.
 

@@ -60,19 +60,19 @@ grievance. The organisation's procedures and where to get advice. Follow-up afte
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Ngozi is a senior care assistant who leads the day shift in a residential care home. Two of her
+Chioma is a senior care assistant who leads the day shift in a residential care home. Two of her
 care assistants, Sheila and Jordan, no longer speak to each other. Sheila says that Jordan
 leaves the hardest personal care for other people. Jordan says that Sheila criticises him in
 front of residents. Handovers between them are now short, and last week a change to the
-medication of one resident was not passed on. The home manager has asked Ngozi to deal with it
-before it becomes a formal complaint. Ngozi trained under Sheila and finds her hard to
+medication of one resident was not passed on. The home manager has asked Chioma to deal with it
+before it becomes a formal complaint. Chioma trained under Sheila and finds her hard to
 challenge.
 
 Tasks:
 
-1. Plan the conversation that Ngozi must have with Sheila. Write her opening sentences.
-2. Describe a method that Ngozi can use to bring Sheila and Jordan to an agreement.
-3. Identify what Ngozi must report to the home manager now, and why.
+1. Plan the conversation that Chioma must have with Sheila. Write her opening sentences.
+2. Describe a method that Chioma can use to bring Sheila and Jordan to an agreement.
+3. Identify what Chioma must report to the home manager now, and why.
 
 ## Assessment
 

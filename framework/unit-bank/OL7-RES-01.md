@@ -68,7 +68,7 @@ decision after the event.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Kwame is the finance director of a regional bus company with 400 vehicles. The board must
+Kojo is the finance director of a regional bus company with 400 vehicles. The board must
 decide whether to replace 60 diesel buses with electric buses. A government grant pays a third
 of the price if the order is placed within five months. The city council plans a clean air
 charge in two years, which is not yet confirmed. Passenger numbers are 12% lower than five
@@ -80,7 +80,7 @@ Tasks:
 
 1. Appraise the investment. State the assumptions that matter most and test them.
 2. Critically evaluate the principal risks of the order and of delay, and how they combine.
-3. Formulate the recommendation and the conditions that Kwame puts to the board.
+3. Formulate the recommendation and the conditions that Kojo puts to the board.
 
 ## Assessment
 

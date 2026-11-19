@@ -67,19 +67,19 @@ communication.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Siobhan is the service manager for outpatient booking at an NHS hospital trust. One patient in
-eight does not attend, and each missed appointment costs clinic time. Siobhan wants to replace
+Orla is the service manager for outpatient booking at an NHS hospital trust. One patient in
+eight does not attend, and each missed appointment costs clinic time. Orla wants to replace
 letters with text reminders that let patients rebook. The consultants in two specialties
 control their own clinic templates and do not want patients to move appointments. The digital
 team has a full work plan until April. A local patient group is worried about older patients
 who do not use mobile phones. The divisional director supports the idea but will not impose it.
-Siobhan has no budget and no authority over any of these groups.
+Orla has no budget and no authority over any of these groups.
 
 Tasks:
 
 1. Analyse the stakeholders. State what each one gains and loses.
 2. Select an approach to influence the consultants and the digital team, and justify each.
-3. Plan the communication with the patient group, and state what Siobhan is ready to concede.
+3. Plan the communication with the patient group, and state what Orla is ready to concede.
 
 ## Assessment
 

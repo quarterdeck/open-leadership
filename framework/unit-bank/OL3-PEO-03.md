@@ -58,19 +58,19 @@ of colleagues.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Callum leads a team of six in the council tax office of a district council. From Monday the
+Ewan leads a team of six in the council tax office of a district council. From Monday the
 office telephone line will close at 4 pm, one hour earlier, so that the team can clear a backlog
 of post. His manager told him on Thursday afternoon in a corridor. Two of the team work part
-time and are not in on Friday. Last month Callum announced a rota change in a group message, and
+time and are not in on Friday. Last month Ewan announced a rota change in a group message, and
 half the team said that they did not see it. Residents who call after 4 pm will hear a recorded
 message that nobody has written yet.
 
 Tasks:
 
-1. Plan how Callum tells each member of the team about the change, and how he checks that they
+1. Plan how Ewan tells each member of the team about the change, and how he checks that they
    understand it.
 2. Write the recorded message for residents in plain language.
-3. Write a short email from Callum to his manager that states one risk and proposes an action.
+3. Write a short email from Ewan to his manager that states one risk and proposes an action.
 
 ## Assessment
 

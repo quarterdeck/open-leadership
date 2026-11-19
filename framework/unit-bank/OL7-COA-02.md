@@ -67,17 +67,17 @@ applies, an ending plan for clients if the coach must stop.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Callum is the director of organisational development at a national parcel carrier. He leads a
+Declan is the director of organisational development at a national parcel carrier. He leads a
 pool of 14 internal coaches and coaches two senior managers himself. The coaches meet as a
-peer group twice a year, and nobody checks their practice. One coach, Bronwen, tells Callum
+peer group twice a year, and nobody checks their practice. One coach, Ffion, tells Declan
 that a depot manager she coaches has altered driver hours records to meet a target. The depot
-manager spoke in confidence. Bronwen's agreement with him says "everything stays private". The
+manager spoke in confidence. Ffion's agreement with him says "everything stays private". The
 operations director, who sponsors the coaching pool, is that depot manager's line manager and
-Callum's peer.
+Declan's peer.
 
 Tasks:
 
-1. Appraise the duties that conflict in this case. Justify what Bronwen and Callum each do
+1. Appraise the duties that conflict in this case. Justify what Ffion and Declan each do
    next, step by step.
 2. Design supervision and quality arrangements for the coaching pool that would reduce the risk
    of a similar case.

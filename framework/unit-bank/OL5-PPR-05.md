@@ -64,7 +64,7 @@ conflict.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Tomasz is the learning and development manager for a parcel logistics company. He must run a
+Andrzej is the learning and development manager for a parcel logistics company. He must run a
 one-day session on safe loading for 40 depot supervisors. The design is finished and approved.
 Half of the supervisors will be in a training room at the main depot. The other half will join
 online from depot offices, some from a shared computer. Several have 20 years of experience
@@ -72,9 +72,9 @@ and say that the session is a waste of a shift. The operations director wants to
 
 Tasks:
 
-1. Plan how Tomasz will facilitate the day so that the online group takes a full part.
+1. Plan how Andrzej will facilitate the day so that the online group takes a full part.
 2. Select methods that use the experience of the long-serving supervisors.
-3. State how Tomasz will check, during the day, that the supervisors can apply the content.
+3. State how Andrzej will check, during the day, that the supervisors can apply the content.
 
 ## Assessment
 

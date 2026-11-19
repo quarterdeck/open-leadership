@@ -65,17 +65,17 @@ What to stop, continue and extend.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Nkechi is a learning partner at a software company with 300 staff, most of them remote. Support
+Adaeze is a learning partner at a software company with 300 staff, most of them remote. Support
 engineers take about five months to handle complex tickets alone. New starters complete two
 weeks of recorded courses and then ask the same four senior engineers for help in a chat channel.
 The senior engineers are behind on their own work, and two have asked to move teams. The support
-manager wants a longer induction course. Nkechi has no budget for new content this quarter.
+manager wants a longer induction course. Adaeze has no budget for new content this quarter.
 
 Tasks:
 
-1. Analyse how new support engineers learn now. State the evidence that Nkechi needs.
+1. Analyse how new support engineers learn now. State the evidence that Adaeze needs.
 2. Propose support at the point of work that reduces the load on the senior engineers.
-3. State how Nkechi will show the support manager the effect after three months.
+3. State how Adaeze will show the support manager the effect after three months.
 
 ## Assessment
 

@@ -69,7 +69,7 @@ evidence about its results.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Rhys is the director of people and organisation development at a national health charity
+Iwan is the director of people and organisation development at a national health charity
 with 900 staff. Two charities merged 18 months ago. There are still two fundraising teams, two
 helplines and two sets of regional offices. Donors receive appeals from both. Staff describe
 themselves by the name of their old charity. The trustees want one structure and a saving of a
@@ -78,7 +78,7 @@ from the smaller one expect to lose most.
 
 Tasks:
 
-1. Design the diagnosis. State how Rhys will make it fair in the eyes of both groups.
+1. Design the diagnosis. State how Iwan will make it fair in the eyes of both groups.
 2. Formulate design criteria and appraise two structural options for fundraising and regions.
 3. Design development work to run beside the restructure, and justify its ethical basis.
 

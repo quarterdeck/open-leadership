@@ -66,18 +66,18 @@ leader. Succession, and the right time to move on.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Imran is chief operating officer of an NHS trust. A year ago he set a hard target to cut the
+Bilal is chief operating officer of an NHS trust. A year ago he set a hard target to cut the
 waiting list, and he praised the service that improved fastest. An internal review now shows
 that staff in that service removed patients from the list without the correct checks. Two
 administrators say that they raised concerns and that nobody replied. A local journalist has
 asked for a comment. The chief executive wants a short statement that blames a software fault.
-The board meets in nine days. Imran knows that his target and his praise are part of the cause.
+The board meets in nine days. Bilal knows that his target and his praise are part of the cause.
 
 Tasks:
 
-1. Critically evaluate Imran's part in the failure. State the evidence that he needs about his
+1. Critically evaluate Bilal's part in the failure. State the evidence that he needs about his
    own leadership.
-2. Formulate the position that Imran takes to the chief executive and the board on the
+2. Formulate the position that Bilal takes to the chief executive and the board on the
    statement. Justify it.
 3. Design safeguards that bring concerns of this type to the senior team sooner.
 

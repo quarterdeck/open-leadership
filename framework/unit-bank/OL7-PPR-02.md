@@ -67,7 +67,7 @@ representatives.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Siobhan is the director of human resources at a university with 4,500 staff and three
+Roisin is the director of human resources at a university with 4,500 staff and three
 recognised trade unions. Income has fallen and the governing body wants to end automatic annual
 pay progression and move to progression by contribution. An equal pay review last year found
 gaps in professorial pay that have no clear explanation. One union has already held a strike
@@ -77,7 +77,7 @@ record of them. The vice-chancellor wants the change agreed within the academic 
 Tasks:
 
 1. Critically evaluate the risks of the proposal for employment relations and for equal pay.
-2. Formulate reward principles and an approach to negotiation that Siobhan can defend to the
+2. Formulate reward principles and an approach to negotiation that Roisin can defend to the
    governing body and to the unions.
 3. Design the control of retention payments by heads of department.
 

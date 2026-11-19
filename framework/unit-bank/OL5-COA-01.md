@@ -66,19 +66,19 @@ names skills, practice and support.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Tomasz is an engineering manager at a software company of 200 people. He coaches Leila, a
+Lukasz is an engineering manager at a software company of 200 people. He coaches Leila, a
 product designer from a different department, and mentors Joe, a new engineering team lead.
-Leila's director agreed to the time for the sessions, and now asks Tomasz if Leila is "ready
-for a senior role". Joe copies each of Tomasz's habits, and last week he used Tomasz's exact words to
-refuse a request from sales. It went badly. Tomasz made no written agreement with either
+Leila's director agreed to the time for the sessions, and now asks Lukasz if Leila is "ready
+for a senior role". Joe copies each of Lukasz's habits, and last week he used Lukasz's exact words to
+refuse a request from sales. It went badly. Lukasz made no written agreement with either
 person.
 
 Tasks:
 
-1. Write the agreement that Tomasz needs with Leila and her director. Justify what the
+1. Write the agreement that Lukasz needs with Leila and her director. Justify what the
    director is told.
 2. Analyse what has gone wrong in the mentoring of Joe and select methods to correct it.
-3. Plan how Tomasz evaluates his practice with both people.
+3. Plan how Lukasz evaluates his practice with both people.
 
 ## Assessment
 

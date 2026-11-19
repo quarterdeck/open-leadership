@@ -58,9 +58,9 @@ learning records. Reflection on their own preparation, explanation and support f
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Bronwen is the learning coordinator for a group of four hotels in North Wales. Guest reviews
+Carys is the learning coordinator for a group of four hotels in North Wales. Guest reviews
 complain about slow check-in since a new booking system arrived. The operations manager asks her
-to book all thirty reception staff on a full-day course. Bronwen watches two shifts. Most staff
+to book all thirty reception staff on a full-day course. Carys watches two shifts. Most staff
 use the system well. The night staff, who missed the launch sessions, use paper and enter the
 data later. The system also freezes when two people open the same booking. Night staff cannot
 attend daytime courses.
@@ -70,7 +70,7 @@ Tasks:
 1. Separate the learning need from the other causes of slow check-in. State who must deal with
    the other causes.
 2. Plan a learning activity for the night staff that fits their shifts.
-3. State how Bronwen will know in one month whether the activity worked.
+3. State how Carys will know in one month whether the activity worked.
 
 ## Assessment
 

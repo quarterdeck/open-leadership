@@ -64,18 +64,18 @@ on strategy.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Mei is area manager for eleven shops of a garden centre chain. The company strategy is to grow
+Lin is area manager for eleven shops of a garden centre chain. The company strategy is to grow
 online sales and offer collection from shops. Online orders count towards a central target, not
-the target of the shop, so Mei's shop managers treat collections as unpaid work and give them
-little space. Mei's own figures show that customers who collect an order spend more in the shop
+the target of the shop, so Lin's shop managers treat collections as unpaid work and give them
+little space. Lin's own figures show that customers who collect an order spend more in the shop
 café and on plants. Two of her shops lose money. Her director has asked each area manager for
 one page of proposals before the board's planning day in six weeks.
 
 Tasks:
 
-1. Analyse the assumptions in the company strategy that Mei's evidence supports or questions.
-2. Evaluate two options that Mei could propose. Recommend one, with costs, risks and measures.
-3. Plan how Mei aligns her shop managers with the strategy before any target changes.
+1. Analyse the assumptions in the company strategy that Lin's evidence supports or questions.
+2. Evaluate two options that Lin could propose. Recommend one, with costs, risks and measures.
+3. Plan how Lin aligns her shop managers with the strategy before any target changes.
 
 ## Assessment
 

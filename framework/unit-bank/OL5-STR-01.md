@@ -66,20 +66,20 @@ carrier of culture. Consistency between words and actions.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Dariusz is a contracts manager at a regional construction company. A year ago the company
-bought a smaller family firm, and Dariusz now manages site managers from both. The larger
+Pawel is a contracts manager at a regional construction company. A year ago the company
+bought a smaller family firm, and Pawel now manages site managers from both. The larger
 company runs each decision through head office. The site managers from the family firm are used
 to deciding on site, and their jobs finish faster. They also report far fewer near misses, and
-Dariusz doubts that fewer happen. Clients now ask for more safety and carbon records with each
+Pawel doubts that fewer happen. Clients now ask for more safety and carbon records with each
 bid. Head office plans one new reporting system for all sites. Two experienced site managers
 have said that they will leave if "the paperwork people" win.
 
 Tasks:
 
-1. Analyse the two cultures. State the evidence that Dariusz needs about near misses.
+1. Analyse the two cultures. State the evidence that Pawel needs about near misses.
 2. Assess how the change in client demands affects the argument between head office and the
    sites.
-3. Justify two changes that Dariusz can make in his own area, and one that he proposes to his
+3. Justify two changes that Pawel can make in his own area, and one that he proposes to his
    director.
 
 ## Assessment

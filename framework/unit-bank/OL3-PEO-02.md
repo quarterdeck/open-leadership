@@ -58,18 +58,18 @@ Confidentiality in a small team.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Priya is the team leader of the fresh food counters in a large supermarket. Marcus joined eight
+Anjali is the team leader of the fresh food counters in a large supermarket. Marcus joined eight
 months ago and customers like him. In the last month he has been late four times, and twice the
-temperature log on his counter was not filled in. Priya has said nothing so far, because the
+temperature log on his counter was not filled in. Anjali has said nothing so far, because the
 store is short of staff and she does not want him to leave. Yesterday a colleague complained
 that she covers for him each morning. On the same counter, Bronwen has cut waste by a fifth with
 her own ordering checklist, and nobody has thanked her.
 
 Tasks:
 
-1. State the facts that Priya needs before she speaks to Marcus, and plan the conversation.
-2. Write two objectives that Priya can agree with Marcus, with a review date.
-3. Describe how Priya can recognise the work of Bronwen.
+1. State the facts that Anjali needs before she speaks to Marcus, and plan the conversation.
+2. Write two objectives that Anjali can agree with Marcus, with a review date.
+3. Describe how Anjali can recognise the work of Bronwen.
 
 ## Assessment
 

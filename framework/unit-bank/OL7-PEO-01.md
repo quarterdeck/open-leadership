@@ -70,7 +70,7 @@ and judgement.
 Use this scenario for discussion, or for assessment if the learner cannot use a case from their
 own work.
 
-Imran is the director of services at a national charity that runs 40 advice centres with 600
+Tariq is the director of services at a national charity that runs 40 advice centres with 600
 staff. The strategy commits the charity to open learning from mistakes. An external review of a
 serious safeguarding failure found that staff in three regions had raised concerns, and that
 their managers had told them to keep waiting times down. The regional head with the best
@@ -82,9 +82,9 @@ Tasks:
 
 1. Critically evaluate what the case shows about the culture of the charity and what sustains
    it.
-2. Design the actions that Imran leads with the regional heads over the next year, and the
+2. Design the actions that Tariq leads with the regional heads over the next year, and the
    indicators that the trustees receive.
-3. Formulate the action that Imran takes with the regional head, and justify it.
+3. Formulate the action that Tariq takes with the regional head, and justify it.
 
 ## Assessment
 

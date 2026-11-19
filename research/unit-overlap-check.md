@@ -46,7 +46,5 @@ When a person changes one of these units, they must read the other.
 
 ## Known faults
 
-- Some first names appear in more than one workplace scenario (for example Callum, Priya and
-  Tomasz). The scenarios are different. A later version can change the names.
 - Several coaching units describe the stages of a coaching conversation in plain words. The
   originality review (Phase 5) must check that the wording is not close to a published model.
