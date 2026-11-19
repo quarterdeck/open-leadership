@@ -43,6 +43,8 @@ The pilot will measure how much. If two scores measure the same thing, one will 
 |---|---|
 | `behaviour-profile/`, `preference-profile/` | For each profile: `technical-manual.md`, `item-bank.csv`, `scoring/`, `reports/` and `facilitator-guide.md` |
 | [`scoring/ol_scoring.py`](scoring/ol_scoring.py) | The scoring code for both profiles, with tests |
+| [`software-specification.md`](software-specification.md) | What a developer, or an AI agent, needs to build an application for the profiles |
+| [`scoring/test-vectors.json`](scoring/test-vectors.json) | Answers and expected results, to check another implementation of the scoring |
 | [`pilot/data-collection-plan.md`](pilot/data-collection-plan.md) | The plan for the pilot |
 | [`pilot/analysis.py`](pilot/analysis.py) | The analysis code for the pilot, with tests |
 | [`data-protection.md`](data-protection.md) | The rules for personal data |

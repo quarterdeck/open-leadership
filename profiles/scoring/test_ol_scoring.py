@@ -210,5 +210,20 @@ class ItemBanks(unittest.TestCase):
             self.assertTrue(all(r["score"] == 50.0 for r in result.values()))
 
 
+class TestVectors(unittest.TestCase):
+    """test-vectors.json agrees with the code. Other implementations use this file."""
+
+    def test_the_published_test_vectors_agree_with_the_code(self):
+        import json
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "test-vectors.json"), encoding="utf-8") as f:
+            vectors = json.load(f)
+        self.assertGreater(len(vectors["cases"]), 10)
+        for case in vectors["cases"]:
+            bank = s.load_item_bank(BANKS[case["profile"]])
+            self.assertEqual(s.score_profile(bank, case["responses"]), case["expected"], case["case"])
+        team = [c["expected"] for c in vectors["cases"] if c["profile"] == "behaviour-profile"][:5]
+        self.assertEqual(s.team_summary(team), vectors["team"]["expected"])
+
+
 if __name__ == "__main__":
     unittest.main()
