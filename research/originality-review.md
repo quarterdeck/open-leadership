@@ -59,10 +59,10 @@ Smaller points that stay open:
   to visit new places" (not about work).
 - The MIT licence permits a person to change a badge. The badge rules are a request.
 - The manifesto criticises fee and licence schemes without names. Confirm the tone.
-- "A certificate is valid if" suggests an authority that decides. No such authority exists.
-- The technical manuals follow the structure of an openly licensed test review model. Check
-  that its share-alike licence permits this under MIT, and that the wording does not suggest a
-  review by its owner.
+- The technical manuals follow the structure of an openly licensed test review model (CC
+  BY-SA 4.0). They take the order of its sections and its guide values, which are ideas and
+  facts, and none of its text. Each manual now says that its owner did not review the
+  profile. A lawyer can confirm that the share-alike term does not apply to the manuals.
 - SOURCES.md now lists the published work behind the general ideas in the units. The
   citations were written from memory, and a person must check each one.
 

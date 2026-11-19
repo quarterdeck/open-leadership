@@ -101,7 +101,7 @@ to `main`.
 
 - Open to anyone: any organisation can deliver, assess and certify, with no approval. This is
   intended. Do not add an approval or licensing step.
-- Certificates: organisations issue their own. A certificate is valid if the process in
+- Certificates: organisations issue their own. A certificate follows the framework if the process in
   `framework/credit-and-assessment-rules.md` was followed and the record is kept. The process
   ends with a panel review, like the oral examination of a research degree. This model is a
   first design and can change.

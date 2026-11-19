@@ -3,7 +3,9 @@
 # Proposed framework architecture
 
 Status: **the Phase 1 proposal**. The decisions that followed are in the files in
-[`framework/`](../framework/). Where this document differs from them, they are correct.
+[`framework/`](../framework/). Where this document differs from them, they are correct. Some
+titles changed later: for example the Level 7 coaching certificate and the first grade of the
+recognition scheme.
 The facts behind it are in [source-notes.md](source-notes.md).
 
 Open Leadership is an independent, unregulated framework. This proposal uses the public rules of

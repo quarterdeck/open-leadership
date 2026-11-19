@@ -5,7 +5,8 @@
 Version 0.1.0 (draft, before the pilot).
 
 The sections follow the structure of the test review model of the European Federation of
-Psychologists' Associations (EFPA), so that a reviewer can find what they expect.
+Psychologists' Associations (EFPA), so that a reviewer can find what they expect. EFPA did
+not review this profile, and no other body did.
 
 ## 1. Summary
 

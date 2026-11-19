@@ -112,8 +112,9 @@ are passed and the panel review (section 6) is passed.
 ## 6. Who can issue a certificate
 
 Any organisation can issue an Open Leadership certificate. Nobody needs approval from
-Quarterdeck or from any other body. A certificate is valid if the issuing organisation followed
-the process below and keeps the record that proves it.
+Quarterdeck or from any other body, and nobody rules on a certificate. A certificate follows
+this framework if the issuing organisation followed the process below and keeps the record
+that proves it. A reader of a certificate can ask the organisation to show that record.
 
 ### Step 1: unit assessment
 
@@ -177,10 +178,11 @@ The badge files are in [`badges/`](../badges/). They are free to use under these
 
 | Badge | Who can use it |
 |---|---|
-| Qualification badge (level and size) | A learner who holds a valid certificate, and the organisation that issued it, with reference to that learner or that programme |
+| Qualification badge (level and size) | A learner who holds a certificate that follows this framework, and the organisation that issued it, with reference to that learner or that programme |
 | Open Leadership CPD badge | See section 8 |
 
-- Each badge carries the words "independent, unregulated". Do not change the words on a badge. Do not add words such as "accredited" or "approved".
+- Each badge carries the words "independent, unregulated". Do not change the words on a
+  badge. Do not add words such as "accredited" or "approved".
 - A training provider can state that a programme "leads to" or "is assessed against" an Open
   Leadership qualification, and show the badge next to that statement.
 

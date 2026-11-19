@@ -46,5 +46,6 @@ When a person changes one of these units, they must read the other.
 
 ## Known faults
 
-- Several coaching units describe the stages of a coaching conversation in plain words. The
-  originality review (Phase 5) must check that the wording is not close to a published model.
+- None is open. The originality review (Phase 5) checked the stages of a coaching conversation
+  in the coaching units and corrected OL3-COA-02 and OL5-COA-01. The repeated first names in
+  the scenarios were changed.
