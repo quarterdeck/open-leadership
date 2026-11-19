@@ -84,5 +84,21 @@ class Analyse(unittest.TestCase):
         self.assertEqual(set(norms["Voice"]), {"mean", "sd", "reliability"})
 
 
+class Simulation(unittest.TestCase):
+    def test_analysis_finds_the_structure_of_the_invented_data(self):
+        import os
+        import simulate_pilot
+        from ol_scoring import load_item_bank
+        here = os.path.dirname(os.path.abspath(__file__))
+        bank = load_item_bank(os.path.join(here, "..", "behaviour-profile", "item-bank.csv"))
+        rows = [{k: str(v) for k, v in row.items()} for row in simulate_pilot.simulate(bank, 300, 1)]
+        report = a.analyse(bank, rows, group="group")
+        self.assertEqual(set(report["scales"]), {"Voice", "Warmth", "Method", "Exploration"})
+        for entry in report["scales"].values():
+            self.assertGreater(entry["alpha"], 0.8)
+            self.assertTrue(all(r > 0.3 for r in entry["item_rest"].values()))
+        self.assertTrue(all(abs(r) < 0.2 for r in report["correlations"].values()))
+
+
 if __name__ == "__main__":
     unittest.main()

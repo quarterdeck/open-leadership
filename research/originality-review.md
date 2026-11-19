@@ -63,8 +63,8 @@ Smaller points that stay open:
 - The technical manuals follow the structure of an openly licensed test review model. Check
   that its share-alike licence permits this under MIT, and that the wording does not suggest a
   review by its owner.
-- SOURCES.md needs entries for the published academic work behind the general ideas in the
-  units (see the list below), after a person reads each source.
+- SOURCES.md now lists the published work behind the general ideas in the units. The
+  citations were written from memory, and a person must check each one.
 
 ## Register check (after the review)
 

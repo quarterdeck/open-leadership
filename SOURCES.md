@@ -67,6 +67,58 @@ The notes that use these sources are in [research/source-notes.md](research/sour
 | [Intellectual property page](https://www.insights.com/intellectual-property/) | The Insights Group Limited | The list of its registered trade marks | Copyright, facts only | Yes |
 | CRAN pages for the R packages psych, lavaan, semTools and circumplex | The package authors | Versions and licences | GPL | Yes |
 
+## Published work behind the general ideas in the units
+
+The indicative content of some units describes a well-known idea in plain words, with no name.
+This table records where each idea comes from, as far as we know.
+
+**None of these works was opened for this project.** The ideas came from general knowledge of
+the subject, and the citations were written from memory. A person must check a citation before
+they rely on it. All the works are in copyright unless the row says otherwise. Open Leadership
+takes the idea only: no text, no diagram and no name of a model.
+
+The sources of pressure at work in the units follow the public Management Standards of the
+Health and Safety Executive (Crown copyright; the reuse terms were not checked).
+
+| Idea in the units | Origin |
+|---|---|
+| Stages of response to change | Kübler-Ross, E. (1969). *On Death and Dying*. Macmillan. Later writers applied the idea to change at work |
+| Kinds of waste in a process | Ohno, T. (1988). *Toyota Production System: Beyond Large-Scale Production*. Productivity Press |
+| Urgent and important tasks | In general use, and often attributed to D. D. Eisenhower. Made well known by Covey, S. R. (1989). *The 7 Habits of Highly Effective People*. Free Press |
+| Repeated "why" questions; categories of cause | Ohno (1988), as above. Ishikawa, K. (1976). *Guide to Quality Control*. Asian Productivity Organization |
+| Specific, measurable and achievable objectives | Doran, G. T. (1981). There's a S.M.A.R.T. way to write management's goals and objectives. *Management Review*, 70(11), 35 to 36 |
+| The employee life cycle | In general use. Origin not confirmed |
+| Forces for and against a change | Lewin, K. (1951). *Field Theory in Social Science*. Harper |
+| Cheap tests of risky assumptions | McGrath, R. G. and MacMillan, I. C. (1995). Discovery-driven planning. *Harvard Business Review*, 73(4). Ries, E. (2011). *The Lean Startup*. Crown Business |
+| Cycles of reflection | Schön, D. A. (1983). *The Reflective Practitioner*. Basic Books. Kolb, D. A. (1984). *Experiential Learning*. Prentice Hall. Gibbs, G. (1988). *Learning by Doing*. Further Education Unit |
+| The purposes of supervision | Kadushin, A. (1976). *Supervision in Social Work*. Columbia University Press. Proctor, B. (1986). Supervision: a co-operative exercise in accountability. In Marken, M. and Payne, M. (eds), *Enabling and Ensuring*. National Youth Bureau |
+| The critical path | Kelley, J. E. and Walker, M. R. (1959). Critical-path planning and scheduling. *Proceedings of the Eastern Joint Computer Conference* |
+| The responses to a risk | In general use in project management. Origin not confirmed |
+| Fitness for purpose; the cost of quality | Juran, J. M. (ed.) (1951). *Quality Control Handbook*. McGraw-Hill. Feigenbaum, A. V. (1956). Total quality control. *Harvard Business Review*, 34(6) |
+| Plan, trial, check and decide | Shewhart, W. A. (1939). *Statistical Method from the Viewpoint of Quality Control*. Deming, W. E. (1986). *Out of the Crisis*. MIT Press |
+| Trust as ability, honesty and good intent | Mayer, R. C., Davis, J. H. and Schoorman, F. D. (1995). An integrative model of organizational trust. *Academy of Management Review*, 20(3), 709 to 734 |
+| Leadership styles from directive to delegating | Tannenbaum, R. and Schmidt, W. H. (1958). How to choose a leadership pattern. *Harvard Business Review*, 36(2). Hersey, P. and Blanchard, K. H. (1969). Life cycle theory of leadership. *Training and Development Journal*, 23(5) |
+| Learning from work, from other people and from formal learning | McCall, M. W., Lombardo, M. M. and Morrison, A. M. (1988). *The Lessons of Experience*. Lexington Books. Lombardo, M. M. and Eichinger, R. W. (1996). *The Career Architect Development Planner*. Lominger |
+| A grid of interest and power | Mendelow, A. L. (1981). Environmental scanning: the impact of the stakeholder concept. *Proceedings of the International Conference on Information Systems* |
+| Interests behind positions | Fisher, R. and Ury, W. (1981). *Getting to Yes*. Houghton Mifflin |
+| Features of a good job | Hackman, J. R. and Oldham, G. R. (1976). Motivation through the design of work: test of a theory. *Organizational Behavior and Human Performance*, 16(2), 250 to 279 |
+| The unwritten expectations between employer and worker | Argyris, C. (1960). *Understanding Organizational Behavior*. Dorsey. Rousseau, D. M. (1989). Psychological and implied contracts in organizations. *Employee Responsibilities and Rights Journal*, 2(2), 121 to 139 |
+| Three kinds of fairness | Greenberg, J. (1987). A taxonomy of organizational justice theories. *Academy of Management Review*, 12(1), 9 to 22. Bies, R. J. and Moag, J. S. (1986). Interactional justice. In *Research on Negotiation in Organizations*, vol. 1. JAI Press |
+| Reviews after action | United States Army (1993). *A Leader's Guide to After-Action Reviews* (Training Circular 25-20). A work of the US government |
+| Headings for a scan of the external environment | Aguilar, F. J. (1967). *Scanning the Business Environment*. Macmillan |
+| Strengths and weaknesses | In general use. The origin is disputed. One early source: Learned, E. P., Christensen, C. R., Andrews, K. R. and Guth, W. D. (1965). *Business Policy: Text and Cases*. Irwin |
+| Levels of culture | Schein, E. H. (1985). *Organizational Culture and Leadership*. Jossey-Bass |
+| Exploring and exploiting | March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71 to 87 |
+| The chain of activities that creates value | Porter, M. E. (1985). *Competitive Advantage*. Free Press |
+| Three layers of control | Institute of Internal Auditors (2013). *The Three Lines of Defense in Effective Risk Management and Control* (position paper) |
+| Tests of a strategic option | Rumelt, R. P. (1980). The evaluation of business strategy. In Glueck, W. F. (ed.), *Business Policy and Strategic Management*. McGraw-Hill. Johnson, G. and Scholes, K. (1984). *Exploring Corporate Strategy*. Prentice Hall |
+| Resources that are hard to copy | Barney, J. (1991). Firm resources and sustained competitive advantage. *Journal of Management*, 17(1), 99 to 120 |
+| Deliberate and emergent strategy | Mintzberg, H. and Waters, J. A. (1985). Of strategies, deliberate and emergent. *Strategic Management Journal*, 6(3), 257 to 272 |
+| Power, legitimacy and urgency of stakeholders | Mitchell, R. K., Agle, B. R. and Wood, D. J. (1997). Toward a theory of stakeholder identification and salience. *Academy of Management Review*, 22(4), 853 to 886 |
+| Organisation development as planned change | Beckhard, R. (1969). *Organization Development: Strategies and Models*. Addison-Wesley |
+| Transitions between levels of leadership | Charan, R., Drotter, S. and Noel, J. (2001). *The Leadership Pipeline*. Jossey-Bass |
+| The five responses to conflict | Blake, R. R. and Mouton, J. S. (1964). *The Managerial Grid*. Gulf. Thomas, K. W. (1976). Conflict and conflict management. In Dunnette, M. D. (ed.), *Handbook of Industrial and Organizational Psychology*. Rand McNally. A commercial questionnaire also uses this idea. The units use the idea only, in their own words |
+
 ## Names
 
 The sources for the name-clash check (trade mark mirror, Companies House, Ofqual register, WHOIS
