@@ -49,10 +49,9 @@ selection. Use no clinical or diagnostic language.
 `quarterdeck/open-leadership` is a public GitHub repository. Each push to `main` publishes the
 content on GitHub and on the site. Therefore:
 
-- Do not commit or push `comparison/positioning.md`, or any other comparison with an incumbent,
-  before Kris reviews it. A draft of that file exists in the working tree only, and
-  `.gitignore` keeps it out of the repository. After the review, remove the `.gitignore` line
-  and commit the file.
+- `comparison/positioning.md` is published by Kris's decision (19 November 2026). Do not
+  change a comparison with an incumbent in it, and do not add another comparison, before Kris
+  reviews the change.
 - Do not add private data or internal business information.
 
 ## Licence

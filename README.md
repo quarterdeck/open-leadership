@@ -45,6 +45,8 @@ validity are not known.
 - People practice: [competence framework](qualifications/people-practice/competence-framework.md)
   and [recognition scheme](qualifications/people-practice/recognition-scheme.md)
 - [Governance](GOVERNANCE.md) and [how to contribute](CONTRIBUTING.md)
+- [How Open Leadership compares](comparison/positioning.md) with regulated qualifications
+  and commercial profiling tools
 - Research: [proposed architecture](research/framework-architecture.md),
   [source notes](research/source-notes.md),
   [unit overlap check](research/unit-overlap-check.md),
