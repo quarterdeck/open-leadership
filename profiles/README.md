@@ -47,6 +47,8 @@ The pilot will measure how much. If two scores measure the same thing, one will 
 | [`scoring/test-vectors.json`](scoring/test-vectors.json) | Answers and expected results, to check another implementation of the scoring |
 | [`pilot/data-collection-plan.md`](pilot/data-collection-plan.md) | The plan for the pilot |
 | [`pilot/analysis.py`](pilot/analysis.py) | The analysis code for the pilot, with tests |
+| [`pilot/factor_analysis.R`](pilot/factor_analysis.R) | Factor analysis and coefficient omega for the pilot. It needs R and the package lavaan |
+| [`pilot/simulate_pilot.py`](pilot/simulate_pilot.py) | Writes an invented data set, to try the analysis before real data exists |
 | [`data-protection.md`](data-protection.md) | The rules for personal data |
 
 Run the tests from the root of the repository:

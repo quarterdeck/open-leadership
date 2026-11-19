@@ -53,17 +53,26 @@ solution <- standardizedSolution(fit)
 loadings <- solution[solution$op == "=~", c("lhs", "rhs", "est.std")]
 names(loadings) <- c("scale", "item", "loading")
 loadings$keyed <- bank$keyed[match(loadings$item, bank$id)]
-loadings$loading <- round(loadings$loading, 3)
+
+# Point each factor in the direction of its scale, so that a + item has a positive loading.
+direction <- sapply(scales, function(s) {
+  rows <- loadings$scale == s
+  sign(sum(loadings$loading[rows] * ifelse(loadings$keyed[rows] == "+", 1, -1)))
+})
+loadings$loading <- round(loadings$loading * direction[loadings$scale], 3)
 
 cat("\nStandardised loadings. An item keyed - has a negative loading. Look at an item below 0.40 in size.\n")
 print(loadings, row.names = FALSE)
 
 cat("\nCoefficient omega for each scale.\n")
 for (s in scales) {
-  l <- abs(loadings$loading[loadings$scale == s])
+  rows <- loadings$scale == s
+  # In the direction of the key, so that an item with the wrong sign lowers omega.
+  l <- loadings$loading[rows] * ifelse(loadings$keyed[rows] == "+", 1, -1)
   omega <- sum(l)^2 / (sum(l)^2 + sum(1 - l^2))
   cat(sprintf("  %-12s %.3f\n", s, omega))
 }
 
 cat("\nCorrelations between the factors. A value above 0.85 in size means that two scales are hard to separate.\n")
-print(round(lavInspect(fit, "cor.lv"), 3))
+factor_correlations <- lavInspect(fit, "cor.lv")[scales, scales] * outer(direction, direction)
+print(round(factor_correlations, 3))

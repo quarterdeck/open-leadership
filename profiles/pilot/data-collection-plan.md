@@ -51,12 +51,26 @@ removed and why.
 
 ## Analysis
 
-`analysis.py` in this folder does the first four rows of the table. Run it one time for each
-profile:
+`analysis.py` in this folder does rows 1 to 4 and row 6 of the table. Run it one time for
+each profile:
 
 ```
 python3 profiles/pilot/analysis.py profiles/behaviour-profile/item-bank.csv pilot.csv \
     --retest retest.csv --group sex --norms profiles/behaviour-profile/scoring/norms.json
+```
+
+`factor_analysis.R` does row 5:
+
+```
+Rscript profiles/pilot/factor_analysis.R profiles/behaviour-profile/item-bank.csv pilot.csv
+```
+
+`simulate_pilot.py` writes an invented data set, so that you can try both scripts before real
+data exists. Both scripts were run on invented data only. The invented data says nothing about
+real people.
+
+```
+python3 profiles/pilot/simulate_pilot.py profiles/behaviour-profile/item-bank.csv invented.csv
 ```
 
 | Question | Method | What we look for |
@@ -65,7 +79,7 @@ python3 profiles/pilot/analysis.py profiles/behaviour-profile/item-bank.csv pilo
 | Does each item fit its scale? | Corrected item-total correlation | 0.30 or more. An item below 0.20 is a candidate for removal |
 | Is each score stable? | Correlation of first and second response | 0.70 or more |
 | Are the scores fair across groups? | Standardised difference between group means | A difference of more than 0.5 needs an explanation. Then a test of each item for different functioning across groups |
-| Do the items form the intended scales? | Confirmatory factor analysis for ordered responses, and coefficient omega | Each item loads on its own scale. The fit is acceptable. This analysis needs a statistics package (for example the R packages lavaan and psych). The code is not written yet |
+| Do the items form the intended scales? | Confirmatory factor analysis for ordered responses, and coefficient omega | Each item loads on its own scale. The fit is acceptable. `factor_analysis.R` does this. It needs R and the package lavaan |
 | Do the two profiles measure different things? | Correlations between all nine scores | A correlation of more than 0.70 between two scores means that one of them is a candidate for removal |
 | Do the scores relate to other measures as expected? | Correlations with a public-domain five-factor measure that a part of the sample also answers | The pattern that the technical manuals predict |
 

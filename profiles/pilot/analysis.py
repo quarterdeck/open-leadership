@@ -15,8 +15,8 @@ respondents, the mean, the standard deviation, Cronbach's alpha, the corrected
 item-total correlation of each item, the test-retest correlation and the
 difference between groups. It also gives the correlations between scales.
 
-This script does not do factor analysis or coefficient omega. The plan for
-those is in data-collection-plan.md. Python 3.9 or later. No packages are
+This script does not do factor analysis or coefficient omega. factor_analysis.R
+in this folder does those. Python 3.9 or later. No packages are
 necessary.
 """
 import argparse
